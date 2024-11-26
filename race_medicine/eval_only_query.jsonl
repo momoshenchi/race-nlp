@@ -1,0 +1,500 @@
+{"query": "Question: A normal heart rate for an adult at rest is:\nOptions: (A) 60-80 bpm.. (B) 60-100 bpm.. (C) 60-90 bpm.. (D) 60-110 bpm..\n", "query_type": "objective"}
+{"query": "问题：下列哪项原因不引起萎缩____\n选项：(A) 肾盂积水。(B) 慢性肝淤血。(C) 垂体功能低下。(D) 四氯化碳中毒。\n", "query_type": "objective"}
+{"query": "身体僵直,腿无力手不抖,是帕金森吗", "query_type": "subjective"}
+{"query": "我去做妇科检查说子宫下垂我想知道什么原因才会造成子宫下垂呢？", "query_type": "subjective"}
+{"query": "你好，我们县人民医院诊断为舌炎，经过两周用药，还是不减轻，治疗过，不减轻想去蚌埠医院去看下", "query_type": "subjective"}
+{"query": "我是乙肝病毒携带者经常亲宝宝和宝宝说话影响啊宝宝一个月", "query_type": "subjective"}
+{"query": "病情描述发病时间、主要症状、症状变化等）：我的爸爸是一个直肠癌的病人，以前以为是慢性肠炎，所以进行了肠炎的治疗，中医热敷都做了，最近发现了竟然直接是直肠癌的晚", "query_type": "subjective"}
+{"query": "Question: A 25-year-old man comes to the emergency department because he developed chest pain and shortness of breath 1 hour ago, shortly after snorting cocaine for the first time. He rates the chest pain as a 7 on a 10-point scale and notes that the pain is radiating down his left arm. Medical history is unremarkable and the patient takes no medications or any other illicit drugs. He is 178 cm (5 ft 10 in) tall and weighs 70 kg (154 lb); BMI is 22 kg/m2 . The patient is diaphoretic. Vital signs are temperature 37.5°C (99.5°F), pulse 110/min, respirations 16/min, and blood pressure 200/100 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 95%. Pupils are equal, round, and reactive to light and accommodation. Lungs are clear to auscultation and percussion. Auscultation of the heart discloses an audible S1 and S2. There is no edema, cyanosis, or clubbing of the digits. The patient is fully oriented. He is treated with supplemental oxygen, a 325-mg aspirin tablet, and intravenous nitroglycerin and lorazepam. Despite therapy, he continues to have chest pain and shortness of breath. ECG shows sinus tachycardia with no ST-segment or T-wave abnormalities. Which of the following is the most appropriate additional pharmacotherapy to initiate at this time?\nOptions: (A) Carvedilol. (B) Furosemide. (C) Metoprolol. (D) Phentolamine.\n", "query_type": "objective"}
+{"query": "嘴巴容易干渴想喝水吃点什么东西好，不知道要吃什么食物，或药物", "query_type": "subjective"}
+{"query": "问题：主要分布在肝脏的是____。\n选项：(A) 碱性磷酸酶。(B) 酸性磷酸酶。(C) 单胺氧化酶。(D) 谷丙转氨酶。\n", "query_type": "objective"}
+{"query": "最近家里就我自己一个人，有时候一天就吃一顿饭，这几天总是打嗝，一感觉饿了就打，越打越饿，越饿越打，这样是正常的吗？还是我消化系统得了什么病？", "query_type": "subjective"}
+{"query": "去长沙哪个医院做近视眼激光手术好一点去长沙哪个医院做近视眼激光手术好一点。更好的技术``更好的使眼睛`没后顾之优", "query_type": "subjective"}
+{"query": "耳朵后面有小疙瘩，摸了疼，不摸不疼目前刚来了月经，可你好，我现在来了月经，可以吃加替沙星片和阿莫西林吗", "query_type": "subjective"}
+{"query": "大便不成形拉不干净还费劲", "query_type": "subjective"}
+{"query": "问题：下列____不是终止密码。\n选项：(A) UAA。(B) 15AC。(C) UAG。(D) UGA。\n", "query_type": "objective"}
+{"query": "感冒喉咙变声咳痰流鼻涕头痛药一直打喷嚏吃什么药想得到的帮助：感冒喉咙变声咳痰流鼻涕头痛药一直打喷嚏吃什么药", "query_type": "subjective"}
+{"query": "Question: The synthesis of glucose from lactate, glycerol, or amino acids is called:\nOptions: (A) glycogenolysis.. (B) glycolysis.. (C) lipolysis.. (D) gluconeogenesis..\n", "query_type": "objective"}
+{"query": "请问，有胃病的患者送什么食物比较好啊？", "query_type": "subjective"}
+{"query": "问题：医疗机构从业人员基本行为规范是哪些人应当遵守的。____\n选项：(A) 医生。(B) 护士。(C) 所有从业人员。(D) 其他人员。\n", "query_type": "objective"}
+{"query": "Question: A 67-year-old woman has had fatigue, dry skin, brittle hair, swelling of the ankles, and cold intolerance for 1 year; she has gained 9 kg (20 lb) during this period. Her pulse is 55/min, and blood pressure is 150/90 mm Hg. She appears lethargic. Examination shows dry skin and a nontender thyroid gland that is enlarged to two times its normal size. There is mild edema of the ankles bilaterally. The relaxation phase of the Achilles reflex is greatly prolonged. Which of the following is the most likely diagnosis?\nOptions: (A) Chronic lymphocytic thyroiditis (Hashimoto disease). (B) Defect in thyroxine (T4) biosynthesis. (C) Graves disease. (D) Multinodular goiter.\n", "query_type": "objective"}
+{"query": "请问口苦、尿黄什么原因？需要到哪科检查什么项目呢？", "query_type": "subjective"}
+{"query": "男，40岁，平时饮酒较多，今天上午右脚面突然肿痛是怎么回事", "query_type": "subjective"}
+{"query": "Question: If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:\nOptions: (A) 400 kJ/min.. (B) 200 kJ/min.. (C) 80 kJ/min.. (D) 40 kJ/min..\n", "query_type": "objective"}
+{"query": "鼻梁两侧皮肤不光滑总有这些小点点怎么回事感谢医生为我快速解答——点击", "query_type": "subjective"}
+{"query": "Question: Exon skipping is associated with:\nOptions: (A) nonsense mutations.. (B) regulatory mutations.. (C) RNA processing mutations.. (D) silent mutations..\n", "query_type": "objective"}
+{"query": "Question: A hypertonic solution is:\nOptions: (A) a solution that has a higher concentration of solutes than the normal human cell.. (B) a solution that blocks off enteral tubes easily.. (C) a solution that has a lower concentration of solutes than the normal human cell.. (D) a solution with a high fibre content..\n", "query_type": "objective"}
+{"query": "Question: Why should a patient stand or sit as upright as possible when recording a peak flow rate?\nOptions: (A) To ensure best lung expansion and accuracy and consistency of readings.. (B) This is the most comfortable position to perform any breathing test.. (C) The counter on the meter will not move if the patient is lying down.. (D) To ensure that their technique can be observed easily..\n", "query_type": "objective"}
+{"query": "高三学生便秘怎么能快点解决？", "query_type": "subjective"}
+{"query": "我脚上有癣痒,有了又发擦什么药啊我脚上有癣痒,有了又发擦什么药啊:", "query_type": "subjective"}
+{"query": "Question: A 33-year-old female presents to the office with the complaint of chronic pelvic pain that began after she underwent a hysterectomy 6 months ago. Following a physical examination, a CT scan of the pelvis is ordered. After the scan is complete, the radiologist calls to report that the patient has a surgical sponge in her pelvis. In a subsequent malpractice suit, the plaintiff establishes that the sponge could not have been left unless there was negligence. The most appropriate term to represent the legal concept invoked by the patient is\nOptions: (A) collateral estoppel. (B) proximate cause. (C) res ipsa loquitur. (D) respondeat superior.\n", "query_type": "objective"}
+{"query": "表姐喜欢打篮球，昨天不小心出了意外，感觉是踝关节扭伤，踝关节扭伤有哪些常规检查项目？", "query_type": "subjective"}
+{"query": "问题：与亚急性甲状腺炎有关的症状为____\n选项：(A) 肌无力。(B) 干燥综合征。(C) 发热伴甲状腺肿痛。(D) 皮肤紫瘴。\n", "query_type": "objective"}
+{"query": "怎样让龟头完全外露？且不需要做手术的情况下", "query_type": "subjective"}
+{"query": "Question: A new enzyme is found in a transgenic mice that participates in synthesis of an unknown product using two reactants. When using radiolabeled compounds to study the enzyme, it is found that the enzyme catalyzes a process that switches a nitrogen group on one reactant to the other reactant. Which of the following categories would this new enzyme fall under?\nOptions: (A) Oxidoreductase. (B) Transferase. (C) Hydrolase. (D) Lyase.\n", "query_type": "objective"}
+{"query": "问题：下列哪种方法诊断妊娠最可靠____\n选项：(A) 停经史，胎动感，腹部渐膨隆。(B) 早孕反应，双合诊子宫增大，尿HCG阳性。(C) 停经史，双合诊子宫增大，B超宫内见妊娠囊。(D) 停经史，早孕反应，B超宫内见光团。\n", "query_type": "objective"}
+{"query": "生殖器疱疹是尖锐湿疣吗,如何辨别尖锐湿疣,专家可以帮忙讲解吗您好，专家。龟头处有个小点点，不知道是什么。我去医院看了说是皮肤下的热气散不出来造成的，我想确定一下。生殖器疱疹是尖锐湿疣吗,如何辨别尖锐湿疣,专家可以帮忙讲解吗", "query_type": "subjective"}
+{"query": "问题：脱羧酶的辅酶____\n选项：(A) 生物素。(B) 叶酸。(C) 磷酸吡哆醛。(D) 硫胺素。\n", "query_type": "objective"}
+{"query": "达英35在月经第一天开始服用，21天吃完一盒第二盒怎么服用？说明书说停用7天，那如果停了2至3天来月经也是在月经第一天就开始吃还是等7天后", "query_type": "subjective"}
+{"query": "问题：____既在糖酵解又在葡萄糖异生作用中起作用。\n选项：(A) 丙酮酸激酶。(B) 3-磷酸甘油醛脱氢酶。(C) 1，6-二磷酸果糖激酶。(D) 己糖激酶。\n", "query_type": "objective"}
+{"query": "Question: Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely\nOptions: (A) entirely learned during development. (B) entirely instinctive. (C) both instinctive and learned. (D) dependent upon hormones for proper development.\n", "query_type": "objective"}
+{"query": "Question: One of the many reasons that the eukaryotic cell can possess so much information in its DNA is the ability to condense coding regions when they are not being expressed. When acting on DNA, which of the following processes will usually lead to a decrease in gene expression?\nOptions: (A) Increased histone acetyltransferase activity. (B) Decrease in histone deacetyltransferase activity. (C) Increase in methylation activity. (D) Increase in heterochromatin:euchromatin ratio.\n", "query_type": "objective"}
+{"query": "问题：下列肝细胞坏死的病变中，病毒性肝炎最常见的病理变化是____\n选项：(A) 溶解性坏死。(B) 嗜酸性坏死。(C) 点状坏死。(D) 碎片坏死。\n", "query_type": "objective"}
+{"query": "问题描述:秀失常躁狂神经异常等。问题描述:秀失常躁狂神经异常等", "query_type": "subjective"}
+{"query": "问题：诊断性腹腔穿刺不应用于____\n选项：(A) 小儿及老年人。(B) 精神状态不正常者。(C) 昏迷病人。(D) 诊断已明确的病人。\n", "query_type": "objective"}
+{"query": "晚上出汗，四肢无力是什么情况。晚上出汗，四肢无力是什么情况", "query_type": "subjective"}
+{"query": "你好，今天去做胃镜检查，诊断结果是慢性浅表性胃炎I级，我想咨询下这是轻度还是重度，严不严重？该怎么治啊，非常感谢您的回答", "query_type": "subjective"}
+{"query": "拿什么泡脚对糖尿病人有益", "query_type": "subjective"}
+{"query": "Question: Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal maternal stress. This work has been labelled ______.\nOptions: (A) developmental epigenetics. (B) social epigenetics. (C) fetal epigenetics. (D) maternal epigenetics.\n", "query_type": "objective"}
+{"query": "不知是怎么了，我的左脸大右脸小，我长期用右边吃饭，左边吃饭不习惯。还有就是这和睡觉有关系吗。问过医生说没事就没治疗。咨询医生的时候还不是很明显，但是现在太明显了。事隔大概有4年了吧", "query_type": "subjective"}
+{"query": "我今年46岁，高压155，低压77，心跳71，我该吃什么药？有时间有胸闷气短的感觉", "query_type": "subjective"}
+{"query": "问题：女性，40岁，参加婚宴后右上腹痛，呈剧烈绞痛，查体见表情痛苦不安。对该患者在确诊前应禁忌的处置是____\n选项：(A) 镇痛药止痛。(B) 抗生素消炎。(C) 急查血常规。(D) 行PTC检查。\n", "query_type": "objective"}
+{"query": "给宝宝段奶后，胸部变的软绵绵的，怎么办？", "query_type": "subjective"}
+{"query": "迁延性乙型肝炎的临床表现有些什么？", "query_type": "subjective"}
+{"query": "问题：不属于第二信使的物质是____\n选项：(A) cAMP。(B) cGMP。(C) $IP_3$。(D) 胰岛素。\n", "query_type": "objective"}
+{"query": "男撸管撸多了,好几年了。现在早泄。该吃什么药治好?撸管撸多了,好几年了。现在", "query_type": "subjective"}
+{"query": "我腰间盘突出，伴有双腿麻木已经有一个多月了，请问有什么好的治疗方法？请问有什么好的治疗方法？", "query_type": "subjective"}
+{"query": "小三阳，病毒8600，肝功能正常。08年查出小三阳，病毒六次方，经过一段治疗，病毒转为阴性。最近复查发现又反复了。复查医生给开的阿德福韦酯片，苦参素软胶囊，珠子肝泰胶囊，联苯双酯滴丸，可是看到有人吃阿德把肾吃坏了，没敢吃这些药，请问我该怎么办？", "query_type": "subjective"}
+{"query": "Question: A 40-year-old male presents to the office with symptoms of odynophagia and gastroesophageal reflux. He also says that he experienced hematemesis once last week. Past medical history reveals AIDS, and his most recent CD4 count was 30 cells/mcL. The patient's tilt test result and hemoglobin level are normal. Rectal examination demonstrates brown stool that is positive for occult blood. What is the most appropriate initial step in this patient's management?\nOptions: (A) prescription for a proton pump inhibitor and a prokinetic agent. (B) prescription for an H2-blocker trial for 6 weeks. (C) prescription for clotrimazole troches. (D) referral for an upper endoscopy with biopsy.\n", "query_type": "objective"}
+{"query": "男性，23岁，晚上睡觉容易出汗，打呼噜，醒来身上都是汗水需要医生帮助提供远程诊断:请问怎么解决", "query_type": "subjective"}
+{"query": "开始是单个的包上面有水泡，我们这里的医生说是过敏从八号下午就变成全身起像痱子一样得小红疙瘩挠后变肿，手脚肿的厉害全身起有两天了曾经的治疗情况和效果：没什么效果再到高一级医院前我该注意什么，面对孩子的痒，烧做些什么", "query_type": "subjective"}
+{"query": "问题：男，60岁，便秘、间断便血10余年，便后有肿物自肛门脱出，质软，可以还纳，诊断为____\n选项：(A) 内痔脱出。(B) 肠完全脱出。(C) 外痔。(D) 血栓外痔。\n", "query_type": "objective"}
+{"query": "我的左脚胫腓前韧带挫伤，已经半个多月了还是有点肿，一直做针灸呢，疼痛稍微坏了一点就是有点肿，不知道还能不能好，多久能好？", "query_type": "subjective"}
+{"query": "问题：不能引起肺部化脓性病变的病原体是____\n选项：(A) 金黄色葡萄球菌。(B) 肺炎杆菌。(C) 肺炎球菌。(D) 嗜肺性军团杆菌。\n", "query_type": "objective"}
+{"query": "我吃药快三个月了一般需要多长时间可以怀孕", "query_type": "subjective"}
+{"query": "大概两三个月尿液都是发黄有异味本人不太爱喝水550ml的矿泉水每天大概喝一瓶之前喝过半个月的中药最近开始尿液颜色有一点变深一个周大概两天早饭不规律一年半前做过肝功检查有轻度脂肪肝在这一年半有打过甲肝乙肝疫苗:", "query_type": "subjective"}
+{"query": "Question: The energy charge of the cell is:\nOptions: (A) the difference between the charge on the outside and inside of a cell.. (B) generated by the sodium-potassium ATPase.. (C) the overall rate of energy use by the cell.. (D) the extent to which the total adenine nucleotide pool is phosphorylated..\n", "query_type": "objective"}
+{"query": "我被一个女室友打了她打我我之后就被退学她说之后看我一次打我一次过了很久我心里还是很害怕怎么办", "query_type": "subjective"}
+{"query": "我今天早上起床耳朵发痒难忍，有透明液体从耳朵里流出。看着非常恶心。我怎么办？", "query_type": "subjective"}
+{"query": "Question: Your patient has diabetes. Why is this important?\nOptions: (A) These patients are more likely to bleed.. (B) These patients are more likely to get urinary tract infections if their blood sugar is unstable.. (C) These patients are more likely to have clear urine.. (D) These patients are less likely to have catheter encrustation..\n", "query_type": "objective"}
+{"query": "怀孕八个月,感觉下身有点收缩?不是很厉害，晚上不要睡觉。", "query_type": "subjective"}
+{"query": "宝宝吃了盐酸丙卡特罗口服溶液咳嗽加重还呕吐怎么办", "query_type": "subjective"}
+{"query": "问题：最易和肺转移癌相混淆的是____\n选项：(A) 中央型肺癌。(B) 周围型肺癌。(C) 弥漫型肺癌。(D) 大细胞肺癌。\n", "query_type": "objective"}
+{"query": "西藏红花能天天泡水喝吗", "query_type": "subjective"}
+{"query": "问题：1981年6月，在上海举行的第一次全国医学伦理道德学术讨论会确立了医德基本原则____\n选项：(A) 救死扶伤。(B) 以上都是。(C) 实行社会主义人道主义。(D) 全心全意为人民服务。\n", "query_type": "objective"}
+{"query": "Question: Which of the following best describes the human body's defense mechanism against environmental bacteria?\nOptions: (A) Hair in the nose. (B) Mucous membranes. (C) Osteoblasts. (D) Saliva.\n", "query_type": "objective"}
+{"query": "Question: Embedded in the inner membrane of the mitochondrion are:\nOptions: (A) the enzymes of the tricarboxylic acid cycle (Krebs' cycle).. (B) the components of the electron transport chain.. (C) glycogen molecules.. (D) triacylglycerol molecules..\n", "query_type": "objective"}
+{"query": "我迫不得已做了人流手术了，可是谁知道做人流手术以后就感染上了子宫内膜炎了，我想知道我这种情况应该怎么办啊。人流手术后因感染得了子宫内膜炎怎么办？", "query_type": "subjective"}
+{"query": "看到厕所听到水声就尿急随时曾经的治疗情况和效果：没治过吃什么药最好", "query_type": "subjective"}
+{"query": "Question: Noncompetitive inhibition differs from uncompetitive inhibition in that a noncompetitive inhibitor binds to an allosteric site on the enzyme and prevents it from catalyzing a reaction, whereas uncompetitive inhibitors bind to the enzymesubstrate complex and prevent catalysis. Increasing the substrate concentration would have which of the following effects?\nOptions: (A) Increasing impact of uncompetitive inhibitor and decreasing concentration of noncompetitive inhibitor. (B) Decreasing impact of uncompetitive inhibitor and increasing impact of noncompetitive inhibitor.. (C) Increasing impact of uncompetitive inhibitor. (D) No effect.\n", "query_type": "objective"}
+{"query": "问题：女性，29岁，因牙龈渗血伴低热1周入院，实验室检查血常规：白细胞11．3×10^9 ／L、红细胞2．6×10^12 ／L、 血红蛋白68g／L、血小板30×10^9 ／L，骨髓穿刺结果提示急性单核细胞白血病(M5)，以下哪个体征最少见____\n选项：(A) 牙龈肿胀。(B) 胸骨压痛。(C) 肝辟肿大。(D) 巩膜黄染。\n", "query_type": "objective"}
+{"query": "问题：血清与血浆的区别在于血清内无____\n选项：(A) 维生素。(B) 糖类。(C) 代谢产物。(D) 纤维蛋白原。\n", "query_type": "objective"}
+{"query": "男孩12周岁了只长出24颗牙属于正常嘛为什么后面还有好大的空间却没长出牙来是缺钙嘛", "query_type": "subjective"}
+{"query": "我的朋友患有眼底病，严重影响生活，我想帮他问一下患上眼底病之后要怎样治疗？", "query_type": "subjective"}
+{"query": "Question: During a clinical study examining the effects of exercise, men between the ages of 20 and 30 years are evaluated during a 15- minute session on a treadmill. The average pulse for the last 2 minutes of the session is 175/min. During the last minute of exercise, various measurements are taken. Compared with the measurement before the session, which of the following is most likely to be decreased?\nOptions: (A) Pulse pressure. (B) Stroke volume. (C) Systolic blood pressure. (D) Total peripheral resistance.\n", "query_type": "objective"}
+{"query": "20号开始突然发烧，晚上去医院检查了，医生说有点发炎，吃了一天酚麻美敏片和头孢克肟胶囊，今天吃完没见起色，又去药店买了头孢克肟胶囊、维C银翘胶囊、布洛芬缓释胶囊，白天烧退了，可晚上又38度，昨天晚上到现在还一直腹泻，但肚子不疼。这是怎么回事？会是什么病？", "query_type": "subjective"}
+{"query": "我都已经结婚三年了，也没有做什么避孕措施，可是到现在也没怀孕，怀疑自己是不是患了不孕不育了，医生说可能是输卵管不通让我做了一些个检查，感觉有的都么用，想问一下输卵管不通需要做些什么检查。请问输卵管不通需要做些什么检查？", "query_type": "subjective"}
+{"query": "月饼发霉了，只是表面有点点而已，清洗掉再蒸半小时，还能吃吗？", "query_type": "subjective"}
+{"query": "Question: An Hfr strain of E. coli contains:\nOptions: (A) a vector of yeast or bacterial origin which is used to make many copies of a particular DNA sequence. (B) a bacterial chromosome with a human gene inserted. (C) a bacterial chromosome with the F factor inserted. (D) a human chromosome with a transposable element inserted.\n", "query_type": "objective"}
+{"query": "问题：对DNA片段作物理图谱分析，需要用____。\n选项：(A) 核酸外切酶。(B) DNAseI。(C) 限制性内切酶。(D) DNA聚合酶I。\n", "query_type": "objective"}
+{"query": "问题：正常情况下，小儿颈曲形成的时间是____\n选项：(A) 7个月。(B) 6个月。(C) 4个月。(D) 3个月。\n", "query_type": "objective"}
+{"query": "我老婆怀孕六个月了现在腿疼走不了路怎么回事想得到怎", "query_type": "subjective"}
+{"query": "问题：有排石史，发现左肾内有一直径0.4cm的结石，首选____\n选项：(A) 观察，多饮水。(B) 体外冲击波碎石。(C) 输尿管镜取石碎石术。(D) 开放手术。\n", "query_type": "objective"}
+{"query": "Question: A recent theory concerning an unusual rise in asthma attacks following a thunderstorm proposes that while pollen grains at 5 microns are too large to enter the airways, their exposure to water precipitates the release of starch granules as a result of osmotic shock. The starch granules are small enough to enter the lower airways and trigger an asthmatic attack. If this theory is true, which of the following is a correct statement?\nOptions: (A) The interior of the pollen grains was hypotonic compared to the surrounding environment.. (B) The interior of the pollen grains had a higher osmotic pressure than did the surrounding environment.. (C) The pollen grains underwent plasmolysis prior to releasing their contents.. (D) The pollen grains underwent shrinking before they ruptured and released their contents..\n", "query_type": "objective"}
+{"query": "宝宝六个半月，纯母乳，已经积食两个月了，肚子有胀气，屁多，大便干，厌奶，能喝小儿健脾化积口服液吗，能和婴儿健脾散，妈咪爱一起吃吗，偏瘦，", "query_type": "subjective"}
+{"query": "宝妈们有没有自己在家全职带宝宝的呀，有没有什么手工活可以在空闲的时候做，谢了", "query_type": "subjective"}
+{"query": "问题：胎盘早剥发生产后出血的原因____\n选项：(A) 子宫下段组织脆弱收缩力差。(B) 子宫下段血运丰富。(C) 两者均有关。(D) 两者均无关。\n", "query_type": "objective"}
+{"query": "我家宝宝三个月，喂妈咪爱醒脾养儿颗粒几小时喂，喂多少啊", "query_type": "subjective"}
+{"query": "我的眼睛350度用做手术么？350度不做手术用其他的方法能医治过来么？", "query_type": "subjective"}
+{"query": "Question: The trigger to initiate the contractile process in skeletal muscle is:\nOptions: (A) potassium binding to myosin.. (B) calcium binding to tropomyosin.. (C) ATP binding to the myosin cross bridges.. (D) calcium binding to troponin..\n", "query_type": "objective"}
+{"query": "问题：水溶性维生素常是辅酶或辅基的组成部分，如____。\n选项：(A) 辅酶A含尼克酰胺。(B) FAD含有吡哆醛。(C) $FH_4$ 含有叶酸。(D) 脱羧辅酶含生物素。\n", "query_type": "objective"}
+{"query": "外阴瘙痒怎没办？这几天外阴总是痒，痒得我坐立难安。我买了些妇炎洁洗洗，但是用了更痒，我只是忍不住去抓他，现在都红肿", "query_type": "subjective"}
+{"query": "我家小孩子5岁，男孩。他好像是感冒了，不停的咳嗽。小孩子鼻子堵塞的厉害，怎么办呢？", "query_type": "subjective"}
+{"query": "甲肝病毒在装菜的塑料袋子上可以存活多久？装菜的塑料袋子很干燥。", "query_type": "subjective"}
+{"query": "脾脏恶性肿瘤的影像学检查有些什么？", "query_type": "subjective"}
+{"query": "毛细血管扩张哪个医院治疗效果好", "query_type": "subjective"}
+{"query": "我感冒很严重，现在一直在干咳，心情很烦躁，一直没有好，请问这种情况应该怎么办？", "query_type": "subjective"}
+{"query": "口腔下颚舌根处有肿块，不疼，也没有不适，", "query_type": "subjective"}
+{"query": "油性发质易脱发，怎样去油又防脱发。一年以上", "query_type": "subjective"}
+{"query": "我姥姥腿上膝盖外侧皮肤起了丘疹，从二十多年前指甲盖大小现在长到一个手掌心那么大，现在结了血痂，在乌鲁木齐人民医院（甲级医院）诊断出来是鲍温病，如何治疗比较好？谢谢", "query_type": "subjective"}
+{"query": "扁桃体发炎点滴抗炎治疗现在让吃3到5天消炎药因为头孢过敏让吃依托红霉素！可以吃虾吗？", "query_type": "subjective"}
+{"query": "问题：6个月女婴，因贫血住院，试验检查血清叶酸小于3μg/L，诊断营养性巨幼红细胞贫血，给予叶酸治疗，为了提高疗效，应同时服____\n选项：(A) VitB2。(B) VitD。(C) VitC。(D) VitA。\n", "query_type": "objective"}
+{"query": "生长受限的临床表现有些什么？", "query_type": "subjective"}
+{"query": "下排最前方的四个牙痒（应该是牙龈吧），总想用舌头用力往外顶。或者用手从外往里按。这样会好一点。持续一个月了。每天下午，晚上时较严重。", "query_type": "subjective"}
+{"query": "我卵泡发育不好,长到14mm就看不见了,去年6月怀孕过,但是胎儿长到两个多月仍不见胚芽,流产了,至今未怀孕。请问医生我的卵泡发育不好怎么办？我这种情况该怎么治疗？谢谢", "query_type": "subjective"}
+{"query": "遇凉风膝盖发木咋回事", "query_type": "subjective"}
+{"query": "我觉得自己身上特别的痒就用手去抓了几下，结果身上就出现了红疹子，去医院检查是荨麻疹。得了荨麻疹的应该怎么办？", "query_type": "subjective"}
+{"query": "我姐姐怀孕还没多久，然后看着我们喝啤酒又嘴馋，怀孕能喝果啤吗？", "query_type": "subjective"}
+{"query": "尿道口又疼又痒是怎么回事是时不时的没有其他症状曾经治疗情况和效果:没有想得到怎样的帮助:怎么治疗啊", "query_type": "subjective"}
+{"query": "现在穿裤子经常会感觉下面好湿，就好容易出湿疹，这是为什么啊？", "query_type": "subjective"}
+{"query": "我父亲患肺小细胞癌已到4期，没有手术价值，没有化疗，想用中医治疗。", "query_type": "subjective"}
+{"query": "肛管直肠疾病的推荐药有些什么？", "query_type": "subjective"}
+{"query": "宝妈们，我孕7周4天，饿了嘴里就冒酸水，没胃口，刚怀孕时，只能吃点酸的，现在看见酸的就不稀罕了，想吃有味的，香辣的……是不是刚怀孕时吃酸的，吃水果把胃吃坏了？", "query_type": "subjective"}
+{"query": "8岁小孩半个月没拉大便？有先天性巨结肠。无吃什么好？怎么治疗？", "query_type": "subjective"}
+{"query": "你好我前段时间前列腺炎后来治疗好了现在感觉勃起又不如以前了呢不过以前阴囊潮湿和尿不净都没有偶尔还是会有尿分叉", "query_type": "subjective"}
+{"query": "12月15因呕吐化血脂肪酶2880，淀粉酶285定为急性胰腺炎，核兹共振都正常经过治疗21日脂肪酶233（提示值要小于60），淀粉酶正常，24日脂肪酶2000（提示值小于300），淀粉酶正常，25日脂肪酶800，淀粉酶正常，27日脂肪酶1650，淀粉酶正常，31日脂肪酶288（提示小于60）3日277(要小于60)每次淀粉酶都在正常值，只是脂肪酶降的幅度不大。现打埃索美拉唑注射剂及氨基酸吃胰酶肠胶蘘复方嗜酸乳杆菌片，双歧杆菌三联，教授我想问问我这种情况是怎样的，可以出院在家调理吗", "query_type": "subjective"}
+{"query": "Question: A 15-year-old boy is brought to the office by his mother because he has been tired and irritable for the past 3 months. He is a high school freshman and a member of the track team. He reports that his symptoms began shortly after starting spring training. He practices sprints 5 nights a week and runs 2 to 5 miles several days a week in addition to leg training with weights. He admits to being tired and says the training is becoming more intense and that he is a little concerned about his ability to continue on the team. His appetite has been unchanged. Medical history is unremarkable and he takes no medications. He has been your patient for the past 3 years. He seems more sullen than you remember from previous visits. You ask his mother to leave the examining room while you complete the physical examination. After she leaves the room, he admits that he is worried about some lumps in his groin. It is most appropriate to obtain additional history regarding which of the following?\nOptions: (A) Fever and chills. (B) Mood symptoms. (C) School performance. (D) Sexual activity.\n", "query_type": "objective"}
+{"query": "了，有腰椎间盘突出，不过不是很严重。平时都没什么影响，只有久坐之后才会腰疼。这段时间发现，晚上睡觉的醒来后，发现左手的无名指和小指发麻（我左侧睡觉），有什么问题没？", "query_type": "subjective"}
+{"query": "小便好似啤酒呈泡沫状怎么回事？", "query_type": "subjective"}
+{"query": "问题：关于维生素缺乏症的叙述，不正确的是____\n选项：(A) 维生素A缺乏——夜盲症。(B) 维生素D缺乏——软骨病。(C) 维生素$B_1$ 缺乏——脚气病。(D) 维生素$B_6$缺乏——口角炎。\n", "query_type": "objective"}
+{"query": "Question: Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?\nOptions: (A) The maxillary bone. (B) The temporal bone. (C) The sphenoid bone. (D) The frontal bone.\n", "query_type": "objective"}
+{"query": "Question: Which one of the following statements is true with regard to intravenous drug administration?\nOptions: (A) IV administration of a drug will delay its action.. (B) IV administration carries low risk of bacteraemia.. (C) IV administration allows titration of a drug with its desired effect.. (D) An intravenous cannula should never be used for both drug and fluid administration..\n", "query_type": "objective"}
+{"query": "我们家那个小宝宝，总是很爱流口水，我看别人家得宝宝都没有这样的情况，心里很是着急，去医院检查又检查不出来原因，都说是正常的发育过程，那么宝宝总是流口水怎么办？", "query_type": "subjective"}
+{"query": "Question: A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pain and mild but persistent vaginal bleeding. Ultrasonography of the abdomen shows a 2-cm ectopic pregnancy in the ampulla. The ampulla has ruptured into the surrounding tissue. Fluid from this rupture will most likely be found in which of the following locations?\nOptions: (A) Lesser peritoneal cavity. (B) Mesometrium. (C) Pouch of Douglas. (D) Uterine cavity.\n", "query_type": "objective"}
+{"query": "去年甲状腺全切，之后喝过三次碘131，是否还有别的更好的治疗方法，请回复，谢谢", "query_type": "subjective"}
+{"query": "问题：肺梗死形成的先决条件是____\n选项：(A) 组织疏松。(B) 严重淤血。(C) 蛋白含量高。(D) 侧支循环不充分。\n", "query_type": "objective"}
+{"query": "Question: Which of the following is not a true statement?\nOptions: (A) Muscle glycogen is broken down enzymatically to glucose-1-phosphate. (B) Elite endurance runners have a high proportion of Type I fibres in their leg muscles. (C) Liver glycogen is important in the maintenance of the blood glucose concentration. (D) Insulin promotes glucose uptake by all tissues in the body.\n", "query_type": "objective"}
+{"query": "脑垂体腺瘤可不可以吃蘑菇", "query_type": "subjective"}
+{"query": "一直月经不调，今天彩超检查子宫内膜厚12mm，医生说做诊刮，我没有做，这严重吗:。", "query_type": "subjective"}
+{"query": "Question: Male to male transmission is a key feature of which pattern of inheritance?\nOptions: (A) Autosomal dominant. (B) Autosomal recessive. (C) X-linked dominant. (D) X-linked recessive.\n", "query_type": "objective"}
+{"query": "宫颈上皮肉瘤变（CINI--2)是什么意思呢？是否很严重呢...", "query_type": "subjective"}
+{"query": "Question: The muscles of the soft palate are innervated by branches of the\nOptions: (A) trigeminal and glossopharyngeal nerves.. (B) facial and glossopharyngeal nerves.. (C) trigeminal and vagus nerves.. (D) facial and vagus nerves..\n", "query_type": "objective"}
+{"query": "我上午刚在医院打了止痛针，想请问止痛针多久起效果？", "query_type": "subjective"}
+{"query": "焦虑症会犯困吗", "query_type": "subjective"}
+{"query": "肱二头肌长头腱鞘炎可不可以吃菊花枸杞茶", "query_type": "subjective"}
+{"query": "Question: What type of covalent bonds link the amino acids in a protein?\nOptions: (A) Peptide bonds. (B) Hydrogen bonds. (C) Ionic bonds. (D) Glycosidic bonds.\n", "query_type": "objective"}
+{"query": "和男朋友做爱他用手弄的下面出血了是怎么了", "query_type": "subjective"}
+{"query": "心率56正常吗?女，59岁，心率56正常吗?", "query_type": "subjective"}
+{"query": "我孩子左眼严重斜视，刚出生应该由于盯着电灯看造成，得小儿斜视怎样治最好？", "query_type": "subjective"}
+{"query": "怀孕了痔疮犯了脱出疼痛怎么办怀孕5个多月后脱落出来了，外面的痔疮不痛，就是里面的痔疮出来了，很疼，出血，也有些便秘，能推回但是还是易脱出，不能碰，碰了就疼怎么办，前几天产检医生建议用孕值安擦，效果怎么样呢", "query_type": "subjective"}
+{"query": "我是一名高血压患者，高压150，低压110，怎么可以快速物理降压", "query_type": "subjective"}
+{"query": "老爷子突然腿不能动，去医院住院刚出院。是多发性脑梗塞，现在还不能动，怎么办？。咨询一下得了多发性脑梗塞怎么办，多发性脑梗塞吃什么药能好", "query_type": "subjective"}
+{"query": "Question: Which of the following is typically NOT found in normal somatic cells of a human male?\nOptions: (A) The entire genetic information possessed by the original zygote. (B) An inactivated X chromosome. (C) Forty-four autosomes. (D) A diploid nucleus.\n", "query_type": "objective"}
+{"query": "您好我怀孕三个月了咳嗽很严重能用川贝炖梨吗", "query_type": "subjective"}
+{"query": "医生您好！嘴唇发麻有肿胀感，嘴唇干燥，刷牙碰到牙膏刺疼想得到的帮助：口腔科", "query_type": "subjective"}
+{"query": "问题：某患者，5月前曾进行链激酶治疗心肌梗死，现出现大面积肺血栓栓塞症，应该如何治疗____\n选项：(A) 继续使用链激酶溶栓。(B) 用尿激酶溶栓。(C) 严禁用任何的溶栓药。(D) 立刻使用负荷量的华法林。\n", "query_type": "objective"}
+{"query": "右脑有阵阵疼痛感，不知道什么原因？但很不舒服？不会是脑子有问题了吧？谢谢", "query_type": "subjective"}
+{"query": "问题：酶的非竞争性抑制剂对酶促反应的影响是____。\n选项：(A) $ν_{max}$ 不变，$K_m$ 增大。(B) $ν_{max}$不变，$K_m$减小。(C) $ν_{max}$增大，$K_m$不变。(D) $ν_{max}$减小，$K_m$不变。\n", "query_type": "objective"}
+{"query": "病毒性结膜炎可不可以吃甲鱼", "query_type": "subjective"}
+{"query": "Question: Which of the following statements is false?\nOptions: (A) Phosphofructokinase is the rate limiting enzyme in glycolysis.. (B) Phosphorylase activity is higher in Type II fibres than in Type I fibres.. (C) Endurance training increases the amount of TCA cycle enzymes in muscle.. (D) Oxygen is consumed in the TCA cycle..\n", "query_type": "objective"}
+{"query": "宝宝一个月了,两种婴儿配方奶粉可以混着喝吗?", "query_type": "subjective"}
+{"query": "患者男，38岁，36岁时遭遇车祸，导致颅脑严重损伤，小脑及吞咽神经严重受损，走路晃，易摔跤，右手木，拿筷子不行，卫生纸一类的没有知觉。两个肩膀粘连，有疼痛感。语言障碍，说话不清楚而且慢。右额面瘫。，做了两次手术，去北京", "query_type": "subjective"}
+{"query": "Ⅱ度宫颈糜烂的诊断是什么？", "query_type": "subjective"}
+{"query": "问题：____不是胆色素。\n选项：(A) 血红素。(B) 胆绿素。(C) 胆红素。(D) 胆素原族。\n", "query_type": "objective"}
+{"query": "请问胃酸反流到喉咙口看什么科（频率一两请问胃酸反流到喉咙口看什么科（频率一两天一两次，口臭，嗓音较浑浊）", "query_type": "subjective"}
+{"query": "盆腔炎治疗多长时间可以治愈", "query_type": "subjective"}
+{"query": "Question: Muscle lactate production increases when:\nOptions: (A) oxygen is readily available.. (B) pyruvate cannot be formed from glucose breakdown.. (C) the pH of the muscle falls.. (D) glycolysis is activated at the onset of exercise..\n", "query_type": "objective"}
+{"query": "Question: Which of the following conditions is a peroxisomal disorder?\nOptions: (A) Acute intermittent porphyria. (B) Maple syrup urine disease. (C) Medium chain acyl-CoA dehydrogenase deficiency. (D) Zellweger syndrome.\n", "query_type": "objective"}
+{"query": "Question: A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued than she was at 65, but she still gardens and drives to the grocery store. Routine laboratory studies reveal a leukocyte count of 25.0 × 103/mcL (reference range 4.5-11.0 × 103/mcL) and 97% mature-appearing lymphocytes on a peripheral blood smear. Immunohistochemical stains demonstrate the lymphocytes to be of B-cell origin. The most likely diagnosis is\nOptions: (A) acute lymphocytic leukemia. (B) acute myelogenous leukemia. (C) chronic lymphocytic leukemia. (D) chronic myelogenous leukemia.\n", "query_type": "objective"}
+{"query": "清晨出汗，还有一点心慌清晨4，5点迷迷糊糊中有汗出，还有一点心慌。", "query_type": "subjective"}
+{"query": "Question: The parotid duct runs\nOptions: (A) deep to masseter and enters the mouth opposite the upper second molar.. (B) superficial to masseter and enters the mouth opposite the upper second molar.. (C) deep to masseter and enters the mouth opposite the upper second premolar.. (D) superficial to masseter and enters the mouth opposite the upper second premolar..\n", "query_type": "objective"}
+{"query": "腮帮很酸很累，总是咬紧牙关无法放松，张开嘴也不行，只能咬着东西才能缓解。很难受，", "query_type": "subjective"}
+{"query": "Question: The carpal bones are the small bones of the wrist - name them.\nOptions: (A) Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate.. (B) Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates.. (C) Scaphoid, proximal phalynx, humerus, hamate, capitate.. (D) Scaphoid, radius, ulna, cunniform, trapezius..\n", "query_type": "objective"}
+{"query": "你是治疗甲状腺癌专家么", "query_type": "subjective"}
+{"query": "我同学这一段时间身体不舒服，总是尿频，想问一下肾炎会尿频吗？", "query_type": "subjective"}
+{"query": "喝药时间累计有48天了，用药时有恶心、精神不振现象，停药后各项指标正常，精神好", "query_type": "subjective"}
+{"query": "我有糖尿病好几年了，最近腿疼的历害，去医院检查医生说他这是糖尿病引起的，请问这种情况怎么办？", "query_type": "subjective"}
+{"query": "宝宝戳手指抽血检查后针口发紫怎么回事？", "query_type": "subjective"}
+{"query": "舌头上有黑斑，接近三年，不痛不痒，但是比较难看，以前没有，大概生完宝宝才有的，应该怎么治疗呢？", "query_type": "subjective"}
+{"query": "孩子喉头水肿怎么治疗", "query_type": "subjective"}
+{"query": "甲癌术后月经不调你好，甲癌术后二十多天了，停服优甲乐，再过几天做碘131，可术后月经量较以前少，并且不时的出现少量红的血丝曾经治疗的情况，想要得到什么帮助（5个汉字以上）", "query_type": "subjective"}
+{"query": "清宫术后泡脚对恢复有帮助吗你好，我刚做了清宫，不知道晚上睡前泡脚会不会对恢复有所帮助呢？", "query_type": "subjective"}
+{"query": "问题：全身营养不良时，首先发生萎缩的组织或器官是____\n选项：(A) 骨骼肌。(B) 脂肪组织。(C) 肝。(D) 脑。\n", "query_type": "objective"}
+{"query": "Question: A muscle fibre relaxes when:\nOptions: (A) the nerve stimulus is removed.. (B) the nerve stimulus is too forceful.. (C) the actin binding sites are uncovered.. (D) the actin binding sites are saturated..\n", "query_type": "objective"}
+{"query": "Question: Which of the following conditions is characterized by incompetence of the esophageal sphincter?\nOptions: (A) Crohn's disease. (B) Esophageal varices. (C) Gastroesophageal reflux disease. (D) Pyloric stenosis.\n", "query_type": "objective"}
+{"query": "我经常半边的肩膀、半边颈部酸痛，一只眼睛难受，半边鼻塞，半个头痛。一天内都在同一边，有时候左边有时右边，但一天只有一边。在桌子上趴一下会好很多。已经持续应该有两年左右了。:", "query_type": "subjective"}
+{"query": "刚刚生下的宝宝，一个月，可是最近为什么老是犯奶呢？宝宝刚一个月老是犯奶", "query_type": "subjective"}
+{"query": "安神丸的功效与作用。", "query_type": "subjective"}
+{"query": "患者这次单位体检,检查出心肌有供血不足趋势,脑供血不足,请问情绪不好能引起这些吗?我以前体检都很健康,只是近一年来因为家里的一件事,情绪有时失控,现在虽好些,可情绪仍受影响.", "query_type": "subjective"}
+{"query": "我想问的是前置胎盘会不会长在伤口上，要是在伤口上就麻烦啦", "query_type": "subjective"}
+{"query": "问题：关于健康档案填写的要求，描述有误的是____\n选项：(A) 档案填写—律用钢笔或圆珠笔。(B) 字迹要清楚，书写要工整。(C) 如果填错，用红笔涂改修正。(D) 数字或代码—律用阿拉伯数字书写。\n", "query_type": "objective"}
+{"query": "肋骨之间下方处又有块骨头你好，医生，我想问下我老公在胸前两肋骨之间的下方处，就是心口窝那又长出像软骨一样的东西，是什么原因，我好担心。", "query_type": "subjective"}
+{"query": "鼻塞打喷嚏流鼻血眼睛发红痒间隔差不多已经2个多星期了特别是晚上睡觉会鼻塞鼻痒半夜还会打喷嚏眼睛痒流眼泪早上起来鼻痒打喷嚏流鼻涕有时还会流鼻血也不知道是不是过度劳累仓库灰尘大天气炎热所导致袋感冒等等这几天还伴有轻微的头痛", "query_type": "subjective"}
+{"query": "Question: Hybrids between some related species of plants are sterile because the parent plants had different chromosome numbers. Occasionally the chromosome number of such a hybrid plant doubles spontaneously. Which of the following best describes the descendants of those plants with the double chromosome number?\nOptions: (A) The plant with the double chromosome number would be genetically defective and have no descendants.. (B) The descendants would be at a selective advantage because of the increased ability to introgress.. (C) The descendants would be reproductively successful because they could backcross with the parental species.. (D) The descendants would regain the ability to reproduce sexually because chromosomes could pair normally..\n", "query_type": "objective"}
+{"query": "我因感冒引起咳嗽，感冒好了，咳嗽没好，一直咳了一个月，前天突然咳嗽时右胸，胸的正下方和肋骨处很痛，咳嗽右胸疼痛想问一下咳嗽右胸疼痛怎么回事？", "query_type": "subjective"}
+{"query": "狗狗三个月左右大了，前两周第一次驱虫，前几天刚打了第三针疫苗。回到家之后晚上可能着了凉在地板上睡的第二天吐了，后来没事了。然后这几天精神状态都不错食欲也还好，但是发现每次便便都很软很软而且里面有透明果冻状的物体。请问我是", "query_type": "subjective"}
+{"query": "我是十年乙肝大三阳患者，现查白球比1.1谷草转氨酶44.5谷丙转氨酶47.9算什么，..", "query_type": "subjective"}
+{"query": "我特想撒尿的时候要等半天才能撒出来我特想撒尿的时候要等半天才能撒出来", "query_type": "subjective"}
+{"query": "周围性神经炎能治好吗？", "query_type": "subjective"}
+{"query": "胃十二指肠溃疡早期症状", "query_type": "subjective"}
+{"query": "甲状腺囊肿可不可以吃鸡蛋", "query_type": "subjective"}
+{"query": "我的胃部赘肉比较多，而且穿衣服的时候就显得特别的难看，我特别的想让我胃部的赘肉少一点，胃部赘肉应该怎么办呢？", "query_type": "subjective"}
+{"query": "Question: The most common chromosome abnormality in first trimester spontaneous miscarriages is:\nOptions: (A) trisomy.. (B) monosomy.. (C) triploidy.. (D) tetrasomy..\n", "query_type": "objective"}
+{"query": "Question: A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had decreased appetite during this period. The pain was initially on the right but now has become generalized. His temperature is 38.8°C (101.8°F), pulse is 100/min, respirations are 20/min, and blood pressure is 143/83 mm Hg. Abdominal examination shows guarding with diffuse rebound tenderness. There are no palpable masses. A CT scan of the abdomen shows a perforated appendix. Examination of peritoneal fluid from this patient will most likely show which of the following organisms?\nOptions: (A) Candida albicans. (B) Citrobacter freundii. (C) Escherichia coli. (D) Staphylococcus aureus.\n", "query_type": "objective"}
+{"query": "口干，经常想喝水，经常尿尿，请问为啥？口干，经常想喝水，经常尿尿，请问为啥。", "query_type": "subjective"}
+{"query": "耳根上部有一小洞如针眼大小，这几天发炎了，有二周左右了，打点滴在消炎。", "query_type": "subjective"}
+{"query": "点痣后有黄色的痂，有点像脓，硬硬的很厚的一块，怎么回事啊，药膏该不该摸啊？还有给的清理伤口的药水，要不要继续喷啊？", "query_type": "subjective"}
+{"query": "Question: Which of the following would be the most dependable environmental signal that a plant in a temperate ecosystem could use to initiate flowering at the correct time of the year?\nOptions: (A) Circadian rhythm. (B) Photoperiod. (C) Changing air temperature. (D) Fluctuations in abscisic acid levels.\n", "query_type": "objective"}
+{"query": "变异性哮喘那应该怎么治疗呢？吃了药好了，过几天又开始咳嗽了，怎么办？", "query_type": "subjective"}
+{"query": "Question: Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nWhich of the following is a likely paragraph that follows this excerpt in the article?\nOptions: (A) A paragraph on a protein that facilitates intracellular function in response to heat.. (B) A paragraph on increased heart attacks in Eskimo populations.. (C) A recap of Finland’s water polo team excellence.. (D) A study on rats exposed to high levels of heat..\n", "query_type": "objective"}
+{"query": "问题：经典途径激活补体的抗原抗体复合物____\n选项：(A) SigA与抗原组成的复合物。(B) 1个lgM与抗原组成的复合物。(C) 1个lgG与抗原组成的复合物。(D) 1个lgE与抗原组成的复合物。\n", "query_type": "objective"}
+{"query": "高血压高140低109.现在吃了吲达帕胺.对\"\"生活有吃什么药好_", "query_type": "subjective"}
+{"query": "县人民医院验光不到一分钟就完成了。。。。:", "query_type": "subjective"}
+{"query": "朋友的小腿突然长透明小水泡，请问小腿突然长透明小水泡的原因有哪些？", "query_type": "subjective"}
+{"query": "问题：以$IP_3$和DAG为第二信使的双信号途径是____\n选项：(A) cAMP-蛋白激酶途径。(B) $Ca^{2+}$-磷脂依赖性蛋白激酶途径。(C) cGMP-蛋白激酶途径。(D) 酪氨酸蛋白激酶途径。\n", "query_type": "objective"}
+{"query": "朋友最近一段时间经常的感触眼睑、颜面部有轻微的浮肿，到医院检查得了急性肾盂肾炎。怎样才能辨认急性肾盂肾炎？", "query_type": "subjective"}
+{"query": "问题：抗代谢类抗癌药是____\n选项：(A) 环磷酰胺。(B) 氟尿嘧啶。(C) 放线菌素D。(D) 长春新碱。\n", "query_type": "objective"}
+{"query": "Question: In chloroplasts, a certain protein is found in the lumen of the thylakoid (thylakoid space). It is transcribed in the nucleus and synthesized on cytoplasmic ribosomes. How many membrane bilayers must this protein cross to reach its final location?\nOptions: (A) One. (B) Two. (C) Three. (D) Four.\n", "query_type": "objective"}
+{"query": "本人30，全身血管经脉不定出现跳动扭曲的现像，时长持续半小时以内，不痛，能看到和摸到，从去年开始的，现在这种现像比以前越来越强，请问可能是什么病，怎么引起的去年开始的，刚开如大约一星期发生一次，跳动几下就停了，有2，3秒吧，现在是每天都有，一天大约10次，持续时长在10到30分内，不痛，就是能看到摸到，", "query_type": "subjective"}
+{"query": "头孢氨胶囊是治感冒的吗", "query_type": "subjective"}
+{"query": "你好，我脸上总是长痘痘，特别是额头和下巴，是怎么回事呀，我以前面颊长过，现在都成痘印了，特难看，有什么办法能去掉吗？而且面颊毛孔粗大怎么办？", "query_type": "subjective"}
+{"query": "扁平湿疣跟hpv56不是同一种请问这个怎么治疗才能根除", "query_type": "subjective"}
+{"query": "专家医生您好疖子好后留下个肉疙瘩", "query_type": "subjective"}
+{"query": "问题：慢性肾盂肾炎主要辅助检查项目应是____\n选项：(A) 肾活检。(B) 双肾CT。(C) 双肾B超。(D) 静脉肾盂造影。\n", "query_type": "objective"}
+{"query": "Question: A study is being conducted to assess mesothelioma in shipyard workers. A large shipyard firm has provided the asbestos exposure records of all employees during the past 50 years. The health insurer for the workers has provided claims data that documents all chest x-rays and diagnoses of mesothelioma among current workers and retirees. The study enrolled shipyard workers who were diagnosed with mesothelioma and shipyard workers who were not diagnosed with mesothelioma. All subjects in the study had to have chest xrays. Which of the following is the best rationale for selecting a comparison group that had chest x-rays?\nOptions: (A) Address confounding. (B) Demonstrate causality. (C) Minimize ascertainment bias. (D) Reduce recall bias.\n", "query_type": "objective"}
+{"query": "Question: Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality?\nOptions: (A) Duodenal atresia. (B) Holoprosencephaly. (C) Hydrops fetalis. (D) Monozygotic twins.\n", "query_type": "objective"}
+{"query": "手足多汗的鉴别诊断", "query_type": "subjective"}
+{"query": "Question: An ileostomy opening should be:\nOptions: (A) flush with the skin.. (B) 3-5cm in length.. (C) below skin level.. (D) over 5cm in length..\n", "query_type": "objective"}
+{"query": "我的末次月经是2月27号那我小孩预产期是什么时候", "query_type": "subjective"}
+{"query": "问题：男性，70岁。慢性阻塞性肺病史20余年，神志不清5小时。体检：发绀，呼吸浅促，心率：120次／分，律齐，两肺闻及干湿啰音。血压75／45mmHg。血pH7．18，$PaCO_2$ 5mmHg，$PaO_2$ 49mmHg。此时哪项治疗措施不适宜____\n选项：(A) 呼吸机辅助通气。(B) 纠正低血压。(C) 持续低浓度吸氧。(D) 呼吸兴奋剂。\n", "query_type": "objective"}
+{"query": "宝宝四十四天了两次采足跟血都没通过、医院叫明天再去复查，有事没好担心呐", "query_type": "subjective"}
+{"query": "Question: Fungi participate in each of the following EXCEPT\nOptions: (A) photosynthesis to produce glucose. (B) fermentation to produce alcohol. (C) association with humans to produce ringworm. (D) association with the roots of plants to form mycorrhizae.\n", "query_type": "objective"}
+{"query": "Question: Macrostomia results from failure of fusion of\nOptions: (A) maxillary and mandibular processes.. (B) left and right mandibular processes.. (C) maxillary and frontonasal processes.. (D) mandibular and hyoid arches..\n", "query_type": "objective"}
+{"query": "Question: Which of the following molecules does not form part of DNA?\nOptions: (A) Purine. (B) Pyrimidine. (C) Deoxyribose. (D) Amino acid.\n", "query_type": "objective"}
+{"query": "Question: Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?\nOptions: (A) Appendix. (B) Gallbladder. (C) Pancreas. (D) Spleen.\n", "query_type": "objective"}
+{"query": "阴毛处瘙痒，起了硬硬的疙瘩，还会有脓包，是有阴虱吗？", "query_type": "subjective"}
+{"query": "我现在怀孕22周，现在肚子绷得很紧，很难受，想知道要怎样缓解肚子发紧呢？", "query_type": "subjective"}
+{"query": "化脓性扁桃体发炎，引起发烧，打了一天青霉素，四天的头孢孟多，依然低烧不退，嘴里全部溃烂无法进食，在医院验血拍肺部片子都正常", "query_type": "subjective"}
+{"query": "前天早上起来和朋友一起到户外运动场运动因为在早些年患有高血压运动估计是过度了然后高血压又犯病啦后来朋友就及时送我到医院检查检查报告说是运动过量导致心率加快请问高血压患者运动后心率加快如何治疗？", "query_type": "subjective"}
+{"query": "Question: A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the\nOptions: (A) bathyl zone. (B) neritic zone. (C) pelagic zone. (D) benthyl zone.\n", "query_type": "objective"}
+{"query": "我孩子，今年17岁，在2016年2月19日在福建福州南京军区总医院检查出得了第四脑室室管膜瘤，2月23日已经进行了全切除手术，再进行了光子刀治疗，术后出现了左边肢体不灵活，走路比较困难，医生说由于手术位置高，脑神经有点受影响导致的。现在在家进行康复锻炼已经一年了，效果不太理想，现在走路还是会摇摇晃晃不能走上下坡。上下楼梯需要栏杆扶着想得到的帮助：想咨询车主任，能有其他更好的方法可以快些恢复", "query_type": "subjective"}
+{"query": "最近心律过快98次，心跳的难受、怎么治疗？", "query_type": "subjective"}
+{"query": "我特别瘦而且是脊柱侧弯请问穿什么衣服可以掩盖", "query_type": "subjective"}
+{"query": "外踝骨撕裂贴膏药再打上石膏行吗", "query_type": "subjective"}
+{"query": "Question: In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the following is true about this process?\nOptions: (A) It is passive.. (B) It depends on DNA.. (C) It requires ATP.. (D) It translocates starch..\n", "query_type": "objective"}
+{"query": "我大姨妈老走不干净就一点浅褐色刚走没几天右边胯骨旁边里面有点刺痛还有点像有东西坠的呢盆腔炎吗", "query_type": "subjective"}
+{"query": "你好慢性肾功能衰竭缺铁性贫血能服用硫酸亚铁片吗谢谢", "query_type": "subjective"}
+{"query": "问题：一胎龄为38周的新生儿，出生体重为3500g，其体重位于同胎龄体重标准的第85百分位，下列哪个诊断最为全面而准确____\n选项：(A) 足月儿，适于胎龄儿。(B) 足月儿，大于胎龄儿。(C) 过期产儿，巨大儿。(D) 过期产儿，大于胎龄儿。\n", "query_type": "objective"}
+{"query": "子宫腺肌瘤手术后还会复发吗？怎样预防？", "query_type": "subjective"}
+{"query": "Question: A 45-year-old woman with systemic sclerosis (scleroderma) comes to the physician because of a 3-week history of progressive shortness of breath and nonproductive cough. Her temperature is 36.9°C (98.4°F), pulse is 82/min, respirations are 20/min, and blood pressure is 136/85 mm Hg. Crackles are heard in both lower lung fields. Pulmonary function tests show total lung capacity is 80% of predicted, and diffusing capacity for carbon monoxide, corrected for alveolar volume, is 65% of predicted. Histologic examination of a lung biopsy specimen is most likely to show which of the following findings?\nOptions: (A) Diffuse interstitial fibrosis. (B) Intra-alveolar exudates. (C) Multiple thromboemboli. (D) Necrotizing vasculitis.\n", "query_type": "objective"}
+{"query": "Question: A 67-year-old man, three hours post-transurethral resection of prostate with irrigation, has a blocked catheter. Which solution should be used to complete bladder washout?\nOptions: (A) Solution R.. (B) Normal saline.. (C) Solution G.. (D) Any of the above..\n", "query_type": "objective"}
+{"query": "请问我是鼻炎吗?症状是一早一晚鼻塞请问我是鼻炎吗?症状是一早一晚鼻塞:。", "query_type": "subjective"}
+{"query": "白果擦脸可以治疗痤疮吗？", "query_type": "subjective"}
+{"query": "Question: The auditory tube\nOptions: (A) connects the inner ear and nasopharynx.. (B) is derived from the second pharyngeal pouch.. (C) is opened by the action of levator veli palatini.. (D) is closed by the action of tensor veli palatini..\n", "query_type": "objective"}
+{"query": "因为失眠心烦去深圳市中医院看了医生，医生说是肝阳上亢，开了百乐眠胶囊跟7天的中药，效果很好，不过一个疗程下来好像没有全部治好，所以自己买了百乐眠，跟脑灵素这样可以吗？", "query_type": "subjective"}
+{"query": "问题：下列哪项不符合糖尿病酮症酸中毒的实验室检查结果____\n选项：(A) pH＜7．35。(B) 血酮体＞4．8mmol／L。(C) 血糖多＞33．3mmol／L。(D) 血白细胞计数＞10×10^9 ／L。\n", "query_type": "objective"}
+{"query": "Question: Which of the following is not a chromosome instability syndrome?\nOptions: (A) Klinefelter syndrome. (B) Ataxia telangiectasia. (C) Fanconi anaemia. (D) Bloom syndrome.\n", "query_type": "objective"}
+{"query": "月经不调怎么治疗怎么用药月经不调哪家医院好", "query_type": "subjective"}
+{"query": "我怀孕四十天了，半个月前同房以后流了点血，打了黄体桐保胎，卧床休息了一星期觉得好了，今天又流了点血，对胎儿有没有什么影响", "query_type": "subjective"}
+{"query": "月经总是提前周期二十天，影响怀孕吗？", "query_type": "subjective"}
+{"query": "问题：蛋白质分子是结构极其复杂的生物大分子。有的蛋白质分子只包含一条多肽链；有的则包含数条多肽链。通常将蛋白质的结构划分为几个层次，有一种结构层次出现在一条多肽链的内部，是多肽链局部的所有原子及原子团形成的有规律的构象，该构象一般成球状结构，执行一定的功能，该结构是____\n选项：(A) 结构域。(B) 超二级结构。(C) 二级结构。(D) 三级结构。\n", "query_type": "objective"}
+{"query": "我以前月经都是往后拖可是从来没有出现过血丝以前", "query_type": "subjective"}
+{"query": "Question: A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorcycle. He reports severe pelvic pain. On examination, there is bruising of the perineum and pain is elicited with motion of his pelvis. Blood is noted at the urethral meatus. There is no other penile trauma. A plain x-ray shows a fracture of the superior pubic ramus and retrograde urethrography is done to evaluate for a urethral disruption. Which of the following portions of the urethra would be at greatest risk for injury in this patient?\nOptions: (A) Intramural (pre-prostatic). (B) Membranous. (C) Prostatic. (D) Spongy.\n", "query_type": "objective"}
+{"query": "做无痛刮宫需要空腹吗？禁水禁食吗？", "query_type": "subjective"}
+{"query": "大夫：请问我母亲近两年来一直出汗，无法治愈，身体越来越消瘦，精神也不太好，各项检查都正常，我该到那个科室看。一直出汗", "query_type": "subjective"}
+{"query": "这种情况有一年了，有时候题做多的时候头会胀，偶尔会痛。主要是太阳穴两边。有时候左半边头顶会有一闪的痛。头胀胀的疼是什么原因", "query_type": "subjective"}
+{"query": "46天的宝宝感冒，鼻子干干的嗓子不舒服晚上睡觉特难受怎么办，。", "query_type": "subjective"}
+{"query": "得了强迫症要怎么治疗,预防.去掉强迫症这个毛病", "query_type": "subjective"}
+{"query": "Question: The chain of survival has four links. Put the following list in the correct order: 1. Early defibrillation; 2. Early CPR; 3. Recognition and call for help early; 4. Post-resuscitation care.\nOptions: (A) 3, 1, 2, 4.. (B) 3, 2, 1, 4.. (C) 1, 2, 3, 4.. (D) 2, 1, 3, 4..\n", "query_type": "objective"}
+{"query": "问题：PCR反应中，所设计引物的长度一般为____\n选项：(A) 5～10个核苷酸。(B) 15～30个核苷酸。(C) <50个核苷酸。(D) 长度任意。\n", "query_type": "objective"}
+{"query": "问题：定期考核不合格的医师暂停执业活动期满，再次考核仍不合格的____\n选项：(A) 可再试用一年。(B) 注销注册，收回医师执业证书。(C) 在执业医师指导下从事执业活动。(D) 暂停执业活动三年。\n", "query_type": "objective"}
+{"query": "我在前几天得了流行性的感冒，非常影响我的工作和生活，请问要怎么治疗才好呢？", "query_type": "subjective"}
+{"query": "艾滋病患者分泌物粘到阴茎会被感染么？？你好医生！我想问您一下，没有与艾滋病患者发生关系，只是有分泌物粘到阴茎。请问", "query_type": "subjective"}
+{"query": "锁骨的地方咽东西有刺疼右侧今天吃了点硬的东西左次也感觉有点涩有十几天了一开始是因为喉咙不舒服感觉右侧锁骨和喉咙有异物但是不疼后来过了几天感觉锁骨的地方咽东西疼照着镜子看咽喉也不红是怎么回事想去医院看不知道挂什么科室是去消", "query_type": "subjective"}
+{"query": "得了肺结核可以吃海鱼么？能不能吃煎的东西？可以吃肉粽子么？会不会对病情造成影响？", "query_type": "subjective"}
+{"query": "Question: A transmembrane protein being isolated in the laboratory is found to be composed of four different amino acids in varying quantity. They are, in order of frequency, glycine, tyrosine, arginine, and isoleucine. Of these amino acids, which is most likely to be inside the transmembrane domain?\nOptions: (A) Glycine. (B) Tyrosine. (C) Arginine. (D) Isoleucine.\n", "query_type": "objective"}
+{"query": "问题：乙型脑炎的特征性病变是____\n选项：(A) 血管淋巴套形成。(B) 软化灶形成。(C) 胶质细胞增生。(D) 卫星现象。\n", "query_type": "objective"}
+{"query": "问题：等渗性脱水多源于____。\n选项：(A) 急性胃肠炎腹泻，呕吐不止。(B) 慢性肠梗阻。(C) 剧烈运动大量出汗。(D) 低位小肠漏。\n", "query_type": "objective"}
+{"query": "下颌骨错位说话时左边的下颌骨突然响了下，不会错位了吧", "query_type": "subjective"}
+{"query": "Question: A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4 days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2 years. History reveals a tuboplasty approximately 1 year ago to correct a closed fallopian tube. The most likely diagnosis is\nOptions: (A) adjustment disorder with depressed mood. (B) bipolar I disorder, mixed. (C) cyclothymic personality. (D) generalized anxiety disorder.\n", "query_type": "objective"}
+{"query": "Question: A patient comes into the hospital after being bit by a dog who he stated was “acting crazy”. The wound is open and bleeding. Animal control captured the dog and said that it was foaming at the mouth and extremely aggressive. Suspecting a rabies infection, the patient is given a serum that contains rabies antibodies that were grown inside a horse. This is an example of what kind of immunity?\nOptions: (A) Passive. (B) Active. (C) Natural. (D) Artificial.\n", "query_type": "objective"}
+{"query": "生完孩子几天了用腹带勒了两天肚子、一动小肚子痛", "query_type": "subjective"}
+{"query": "Question: The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is:\nOptions: (A) autosomal dominant.. (B) autosomal recessive.. (C) X-linked dominant.. (D) X-linked recessive..\n", "query_type": "objective"}
+{"query": "问题：治疗糖尿病酮症酸中毒时最应注意的电解质紊乱是____\n选项：(A) 低钠血症。(B) 低钾血症。(C) 高氯血症。(D) 高钙血症。\n", "query_type": "objective"}
+{"query": "阴茎勃起时9厘米左右，不粗，和女朋友做爱时刚开始很硬，后来就慢慢变软，我要怎么办", "query_type": "subjective"}
+{"query": "跪求，我母亲09年肺癌手术，术后后肋刀口处始终疼痛，现在后肋刀口肋骨比正常粗2倍多，是手术中肋骨损伤造成骨质增生，", "query_type": "subjective"}
+{"query": "你好，我孙子今年4岁医院检测是XYY染色体，会是什么情况。请告诉我。", "query_type": "subjective"}
+{"query": "问题：蛋白质不能吸收可见光，但能吸收一定波长范围内的紫外光。大多数蛋白质在280nm波长附近有一个吸收峰，这主要与蛋白质中____的紫外吸收有关。因此，可以利用紫外吸收法，根据蛋白质溶液在280nm波长的吸收值测定蛋白质浓度\n选项：(A) 碱性氨基酸。(B) 酸性氨基酸。(C) 含硫氨基酸。(D) 芳香族氨基酸。\n", "query_type": "objective"}
+{"query": "您好，请问牙疼头疼喉咙痛，还全身没力气，是怎么回事", "query_type": "subjective"}
+{"query": "问题：三个关节同时受累，称为____\n选项：(A) 单关节炎。(B) 多关节炎。(C) 对称性关节炎。(D) 少关节炎。\n", "query_type": "objective"}
+{"query": "问题：以下母乳喂养的优点中，不正确的是____\n选项：(A) 蛋白质、脂肪、糖比例合适。(B) 母乳含免疫性物质。(C) 母乳喂养帮助母亲产后子宫复原。(D) 母乳中酪蛋白多。\n", "query_type": "objective"}
+{"query": "Question: The mucosa of the hard palate is\nOptions: (A) keratinised and has submucosa and minor salivary glands posterolaterally.. (B) non-keratinised and has submucosa and minor salivary glands posteromedially.. (C) keratinised and lacks submucosa and minor salivary glands.. (D) non-keratinised and lacks submucosa and minor salivary glands..\n", "query_type": "objective"}
+{"query": "医院做CT检查输尿管结石！1*0.8做了超声碎石没作用！请问要不要在做！还是手术呢", "query_type": "subjective"}
+{"query": "怀孕一个多月阴道有点出血可以吃墨鱼肉饼汤吗?", "query_type": "subjective"}
+{"query": "眼屎多鼻屎干燥，小便黄量又少，手心出汗，情绪烦躁，睡觉动来动去的，容易醒这是上火了吗？", "query_type": "subjective"}
+{"query": "鱼皮肤应该咋么治好？", "query_type": "subjective"}
+{"query": "Question: Which one of the following brain areas is supplied by branches of the subclavian arteries?\nOptions: (A) The frontal lobe. (B) The parietal lobe. (C) The hypothalamus. (D) The cerebellum.\n", "query_type": "objective"}
+{"query": "问题：____不是蛋白质的性质之一。\n选项：(A) 处于等电状态时溶解度最小。(B) 加入少量中性盐溶解度增加。(C) 变性蛋白质的溶解度增加。(D) 有紫外吸收特性。\n", "query_type": "objective"}
+{"query": "你好，女人晚上有淋尿吃什么药比较好", "query_type": "subjective"}
+{"query": "问题：酶的催化特点不具有____\n选项：(A) 高效性。(B) 多功能性。(C) 可调节性。(D) 酶蛋白易变性。\n", "query_type": "objective"}
+{"query": "7岁小孩睡前出汗，白天尔说头晕", "query_type": "subjective"}
+{"query": "Question: Oxygen is used:\nOptions: (A) in glycolysis.. (B) in the conversion of fatty acids to acetyl CoA.. (C) in the tricarboxylic acid cycle (Krebs' cycle).. (D) in glycogenolysis..\n", "query_type": "objective"}
+{"query": "跟朋友聊天貌似总不在一个频道上自己却发现不出来让别人感觉很奇怪像神经病一样总是独立想着自己脑中的事情别人说什么聊什么貌似都听不进去又感觉脑袋像反应慢还是怎样不知怎么回事层多次注射过大量麻药。", "query_type": "subjective"}
+{"query": "Question: Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways?\nOptions: (A) Each type of antibody in a monoclonal antiserum reacts against a single region of a single antigen; each type of antibody in a polyclonal antiserum reacts against multiple regions of different antigens.. (B) A monoclonal antibody reacts against multiple regions of a single antigen; a polyclonal antibody reacts against a single region of related antigens.. (C) A monoclonal antiserum contains antibodies secreted from the descendants of a single B lymphocyte; a polyclonal antiserum contains antibodies secreted from the descendants of different B lymphocytes.. (D) A monoclonal antiserum contains antibodies secreted from the descendants of a single B lymphocyte; a polyclonal antiserum contains antibodies secreted from the descendants of both B and T lymphocytes..\n", "query_type": "objective"}
+{"query": "宝贝已经６岁了，喝了４年的高乐高加牛奶．请问高乐高儿童能长期饮用吗？", "query_type": "subjective"}
+{"query": "我是因为游泳导致的尿路感染吃药但总是不好我该怎么办", "query_type": "subjective"}
+{"query": "肛门处长了个小息肉，在大便的时候会有很多血流出来，请问造成的原因是什么？", "query_type": "subjective"}
+{"query": "问题：患者的下列哪种表现有可能不是因为焦虑引起的？____\n选项：(A) 敏感多疑。(B) 丢三落四。(C) 手心出汗。(D) 失眠。\n", "query_type": "objective"}
+{"query": "我的同事检查怀孕有四十多天了，现在有出血的症状，我想知道怀孕42天出血怎么办？", "query_type": "subjective"}
+{"query": "问题：给胃癌患者实施直肠指诊检查的目的是了解有无____\n选项：(A) 种植转移。(B) 淋巴转移。(C) 血行转移。(D) 直接浸润。\n", "query_type": "objective"}
+{"query": "我的右肩膀疼了快两年了，就是好不了，冬天更严重，求帮助。我的右肩膀疼了快两年了，就是好不了，冬天更严重，求帮助。曾经治疗情况和效果:无想得到怎样的帮助:我的右肩膀疼了快两年了，就是好不了，冬天更严重，求帮助。我的右肩膀疼了快两年了，就是好不了，冬天更严重，求帮助。", "query_type": "subjective"}
+{"query": "右胫骨粉碎性骨折手术2个月这几天伤口红胀痛，发热", "query_type": "subjective"}
+{"query": "问题：急性呼吸衰竭最早出现的症状是____\n选项：(A) 发绀。(B) 呼吸困难。(C) 精神错乱。(D) 心动过速。\n", "query_type": "objective"}
+{"query": "我得带状疱疹有一周了,刚确诊已开始用药,原本只是后背有,今天发现胸下也有了,请问还会在发展么?什么时候能彻底好?能否洗澡?", "query_type": "subjective"}
+{"query": "问题：下列各种引流管，不正确的处理是____\n选项：(A) 要注意观察各种引流管是否通畅。(B) 仔细记录引流液的色泽和容量。(C) 留置胆管内的“T”形管可在术后1周拔除。(D) 胃肠功能恢复后可将胃肠减压管除去。\n", "query_type": "objective"}
+{"query": "问题：属于Ⅳ型超敏反应的疾病是____\n选项：(A) 血清过敏性休克。(B) 接触性皮炎。(C) 类风湿性关节炎。(D) 新生儿溶血症。\n", "query_type": "objective"}
+{"query": "Question: Which of the following conditions is not caused by a mutation in FGFR3?\nOptions: (A) Achondroplasia. (B) Crouzon syndrome. (C) Thanatophoric dysplasia. (D) Waardenburg syndrome.\n", "query_type": "objective"}
+{"query": "最近在给宝宝洗澡的时候发现身上出现一些红色的点点，去医院检查是血管瘤，宝宝血管瘤症状有哪些？", "query_type": "subjective"}
+{"query": "产后发烧是怎么回事", "query_type": "subjective"}
+{"query": "危险期同房九小时吃了紧急避孕药，同房的第五天用试孕纸试没怀孕，这样测出来准吗？", "query_type": "subjective"}
+{"query": "臭汗症会熏别人眼困不，全身出汗大时感觉会没那么熏", "query_type": "subjective"}
+{"query": "我打了破伤风免疫球蛋白怎么去检查破伤风抗体？", "query_type": "subjective"}
+{"query": "医生你好，我两岁的孩子打喷嚏、流鼻涕吃什么药会好一点？", "query_type": "subjective"}
+{"query": "Question: A study is conducted to assess the effectiveness of a new drug for the treatment of type 2 diabetes mellitus. A total of 1000 patients with type 2 diabetes mellitus are enrolled. Patients are randomly assigned to receive the new drug or standard treatment. The alpha and beta values for calculating probability are 0.05 and 0.20, respectively. Results show that the new drug is significantly better than standard treatment. If this study had been performed in a population of only 500 patients, which of the following would have been most likely to increase?\nOptions: (A) Chance of a type I error. (B) Chance of a type II error. (C) Power of the study. (D) Sensitivity of the study.\n", "query_type": "objective"}
+{"query": "问题：将RNA转移到硝基纤维素膜上的技术叫____。\n选项：(A) Southern印迹。(B) Northern印迹。(C) Western印迹。(D) Eastern印迹。\n", "query_type": "objective"}
+{"query": "问题：以下哪项是高血压脑出血主要危险因素____\n选项：(A) 糖尿病或血糖增高。(B) 血清胆固醇增高。(C) 突然血压增高。(D) 脑动脉硬化。\n", "query_type": "objective"}
+{"query": "Question: What type of covalent bonds link the amino acids in a protein?\nOptions: (A) Peptide bonds. (B) Hydrogen bonds. (C) Ionic bonds. (D) Glycosidic bonds.\n", "query_type": "objective"}
+{"query": "宝三月整了，吃奶吃着老咬人！圠牙不是到六月左右才扎的吗？", "query_type": "subjective"}
+{"query": "高位截瘫患者有没有什么辅助的东西可以让他自己走路高位截瘫患者有辅助走路的东西吗", "query_type": "subjective"}
+{"query": "白细胞计数，粒细胞计数，红细胞计数，血红蛋白浓度，血压积，RBC平均Hb浓度均偏低；中间细胞率，RBC体积分布宽度", "query_type": "subjective"}
+{"query": "问题：与肝癌发病无关的因素是____\n选项：(A) 甲型肝炎。(B) 乙型肝炎。(C) 酒精性肝硬化。(D) 坏死后性肝硬化。\n", "query_type": "objective"}
+{"query": "问题：血液非蛋白氮中含量最多的物质是____。\n选项：(A) 尿素。(B) 肌酸。(C) 蛋白质。(D) 尿酸。\n", "query_type": "objective"}
+{"query": "问题：氨基酸分子既含有酸性的羧基(一COOH)，又含有碱性的氨基(一$NH_2$ )。前者能提供质子变成一COO一；后者能接受质子变成一$NH_3^+$ 。有的氨基酸还有可解离的侧链基团。因此，氨基酸是两性电解质。其解离状态与溶液的pH值有直接关系，当pH值等于pI时，蛋白质____\n选项：(A) 带正电荷。(B) 带负电荷。(C) 所带电荷不确定。(D) 所带正、负电荷相等。\n", "query_type": "objective"}
+{"query": "我现在怀孕有两个月了，每天我都有想吐的感觉，吐得我都累了，想吃东西但吃了又吐，都快没力气吐了，请问怀孕多少天吐的最厉害？什么时候能得到缓解一些？", "query_type": "subjective"}
+{"query": "问题：患者男，56岁。右膝关节疼痛半年，加重5天，尤以上楼梯时加剧。X线检查显示膝关节退行性改变，诊断为髌骨软骨软化症。非手术治疗首先应制动膝关节的时间是____\n选项：(A) 1～2周。(B) 3~4周。(C) 4~5周。(D) 6~7周。\n", "query_type": "objective"}
+{"query": "后脑发木，脸发麻身体有的时候也木，管脑血管药吃过银杏叶，丹渗", "query_type": "subjective"}
+{"query": "声音一直是很沙哑没有感冒的症状就是平时说话经常会大喊大叫现在已经让他注意一点了但是还是没有好转请问这种情况吃什么药好呢？:", "query_type": "subjective"}
+{"query": "早上起床脸眼浮肿吃什么药治疗我今年50岁了最近3年都出现脸眼浮肿今年时间最长我喝过中药没有好转最近发现我一高血压症状经过吃降压药控制住高血压了我的脸和眼还是浮肿特别早上起床最厉害下午消一点请专家给予治疗方法谢谢了。吃什么药可以不浮肿", "query_type": "subjective"}
+{"query": "Question: Which of the following promotes glucose and amino acid uptake by muscle?\nOptions: (A) Adrenaline. (B) Insulin. (C) Glycogen. (D) Cortisol.\n", "query_type": "objective"}
+{"query": "7月12号在一家美容店做了雾化除皱，导致眉毛高低，眼皮下垂。面部僵硬，笑起来也不自然，眼睛也变小了。眼皮很沉的感觉，我想请问医生怎么办？还能恢复到原样吗？多久", "query_type": "subjective"}
+{"query": "Question: A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urination and occasional incontinence whenever she travels. She says the urinary symptoms typically begin a few days before she is going to fly and they stop the day after she arrives at her destination. She says she is anxious about flying and even slightly \"panicky.\" She reports having had similar but milder symptoms prior to examinations before graduating. Medical history is otherwise unremarkable. Her only medication is an oral contraceptive. Vital signs are normal. Physical examination discloses no abnormalities. Urinalysis and urine culture are normal. Which of the following is the most appropriate next step?\nOptions: (A) Recommend behavioral therapy. (B) Recommend psychoanalytic psychotherapy. (C) Recommend that the patient avoid any stressful activities that cause the problem. (D) Review the patient's sexual history.\n", "query_type": "objective"}
+{"query": "Question: A 35-year-old female develops nausea and vomiting after she underwent a cholecystectomy for protracted ileus. Her body mass index was 23 kg/m2 before surgery, and, except for the cholecystitis, she was in good health. The patient remains unable to eat 6 days after surgery. Which of the following forms of nutritional support is most appropriate for this patient?\nOptions: (A) central hyperalimentation. (B) feeding through a nasogastric feeding tube. (C) oral fat-free modular diet. (D) peripheral hyperalimentation.\n", "query_type": "objective"}
+{"query": "问题：补钾速度一般每小时不宜超过____\n选项：(A) 10mmol。(B) 20mmol。(C) 30mmol。(D) 40mmol。\n", "query_type": "objective"}
+{"query": "宝宝后背烫手凉说明什么？", "query_type": "subjective"}
+{"query": "我现在打算去植发，但是因为对植发有很多不是地方特别了解的，在手术过程当中会不会发生疼痛感呢？", "query_type": "subjective"}
+{"query": "问题：早期胃癌最多见的类型是____\n选项：(A) 隆起型。(B) 表浅型。(C) 凹陷型。(D) 表浅平坦型。\n", "query_type": "objective"}
+{"query": "Question: Which of the following genes conveys susceptibility for polygenic Alzheimer disease?\nOptions: (A) APP. (B) PS1. (C) PS2. (D) APOE.\n", "query_type": "objective"}
+{"query": "病情描述发病时间、主要症状、症状变化等）：病人男性70岁心脏二尖瓣反流左心房增大二尖瓣退行还有胆囊粘液囊肿现在在吃心脏药想买一些治疗胆囊粘液囊肿的药怕胆囊随时爆炸医生说胆囊破裂就完了想吃点什么药来治疗胆囊粘液囊肿把胆囊里的液体排泄出去请医生给点意见", "query_type": "subjective"}
+{"query": "问题：心理治疗成功的关键是____\n选项：(A) 以上均是。(B) 医生的医术。(C) 良好的医患关系。(D) 家属的配合。\n", "query_type": "objective"}
+{"query": "我的孩子一岁了。不小心烫伤了。在腿上。也处理吧了。会不留下什么后遗症啊", "query_type": "subjective"}
+{"query": "Question: In hypovolaemic shock, what percentage of blood can be lost before it is reflected in changes in heart rate and blood pressure?\nOptions: (A) 5%. (B) 10%. (C) 20%. (D) 30%.\n", "query_type": "objective"}
+{"query": "问题：目前认为多数人类肾小球疾病是____\n选项：(A) 遗传性疾病。(B) 是细菌感染性疾病。(C) 免疫介导的疾病。(D) 免疫缺陷性疾病。\n", "query_type": "objective"}
+{"query": "问题：前置胎盘发生产后出血的原因____\n选项：(A) 子宫下段组织脆弱收缩力差。(B) 子宫下段血运丰富。(C) 两者均有关。(D) 两者均无关。\n", "query_type": "objective"}
+{"query": "最近头晕目眩，不想吃饭，嗓子痛，有点清鼻涕曾经的治疗情况和效果：吃感冒药效果不明显我还需要吃什么药，我是冷感冒还是热感冒啊？", "query_type": "subjective"}
+{"query": "Question: In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an affected individual?\nOptions: (A) Brother. (B) Nephew. (C) Grandchild. (D) Aunt.\n", "query_type": "objective"}
+{"query": "问题：下列愈合属于完全再生的是____\n选项：(A) 神经修复。(B) 皮肤瘢痕。(C) 心梗后心肌修复。(D) 骨折愈合。\n", "query_type": "objective"}
+{"query": "我己前检查患了肝囊肿，现在觉得有点疼，怎么办？", "query_type": "subjective"}
+{"query": "问题：足月儿出生7天后出现黄疸，下列哪项诊断是不可能的____\n选项：(A) 败血症。(B) ABO溶血病。(C) 新生儿肺炎。(D) 胆道闭锁。\n", "query_type": "objective"}
+{"query": "Question: Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environment. Which of the following represents a form of Batesian mimicry?\nOptions: (A) A type of millipede that is toxic to a toad is permanently avoided by the toad following the toad's initial attempt to consume it.. (B) A moth exhibits false eyes at its tail end in order to disorient predators.. (C) A moth exhibits nearly identical coloration to that of a stinging bee.. (D) A ground-nesting gull chick displays a coloration pattern that is nearly indistinguishable from its surroundings..\n", "query_type": "objective"}
+{"query": "例假结束后多久才能化验小便判断怀孕与否?如果怀孕了,多长时间人流为好?", "query_type": "subjective"}
+{"query": "问题：下列哪项检查不是反映慢性溶血性贫血时骨髓代偿增生的证据____\n选项：(A) 骨髓代偿增生。(B) 末梢血出现幼红细胞。(C) 骨髓幼红细胞增生活跃。(D) 外周血涂片发现红细胞碎片。\n", "query_type": "objective"}
+{"query": "我来事过后小肚子总疼，有时白带有红色的，请问是怎么回事经常是来事过后肚子痛", "query_type": "subjective"}
+{"query": "问题：X线片上最易与周同型肺癌相混淆的肺结核病是____\n选项：(A) 结核球。(B) 原发综合征。(C) 局灶型肺结核。(D) 结核性胸膜炎。\n", "query_type": "objective"}
+{"query": "冬天身体热了手就起红点在冬天，只要是身体一热，手就会起一个个的红点，最严重的时候整个手红完。这种情况只发生在冬天。我小的时候就出现过这种情况，家里人说是血热。所以在此想问一下医生是否有什么办法可以治得好这种病，谢谢", "query_type": "subjective"}
+{"query": "兰州市那个医院做大拇指外翻手术", "query_type": "subjective"}
+{"query": "问题：基底细胞癌最常见的好发部位是____\n选项：(A) 小阴唇。(B) 前庭。(C) 阴蒂。(D) 大阴唇。\n", "query_type": "objective"}
+{"query": "五子衍宗丸是治疗肾阳虚？还是肾阴虚？阳虚有什么症状？阴虚有什么症状？请男科专家解读！", "query_type": "subjective"}
+{"query": "问题：约60%足月儿和80%以上的早产儿可于生后____\n选项：(A) 生后1～2天出现黄疸。(B) 生后2～3天出现黄疸。(C) 生后2～4天出现黄疸。(D) 生后2～5天出现黄疸。\n", "query_type": "objective"}
+{"query": "患者十个半月各位医生好！我家小孩十个多月，前几天刚做疝气手术，有三天了，现在喝水、吃东西都会呕吐，而且只想睡觉没有精神！请问医生这是什么原因引起的！有什么解决办法没有！", "query_type": "subjective"}
+{"query": "问题：公民在医院就医需要用血时，只需交付的费用包括____\n选项：(A) 用于血液的采集、储存、分离、检验等费用。(B) 用于血液的包装、储存、运输费用。(C) 医院为患者输血过程所产生的费用。(D) 血液采供血的费用和血液的价格 行政部门会同国务院价格主管部门制定。。\n", "query_type": "objective"}
+{"query": "吃过四次布洛芬24小时可孩子又出现高烧怎么办呢", "query_type": "subjective"}
+{"query": "39周胎儿双顶径89mm腹前后径92mm股骨长度72mm肱骨长度63mm正常吗？胎儿大概有多重了曾经治疗情况和效果:正常想得到怎样的帮助:感谢医生为我解答", "query_type": "subjective"}
+{"query": "问题：硅尘可导致硅沉着病，其中致病力最强的硅尘颗粒直径为____\n选项：(A) ＞5μm。(B) 4～5μm。(C) 2～3／μm。(D) 1～2μm。\n", "query_type": "objective"}
+{"query": "B超显示结果宫壁不均质偏低回声【子宫腺肌瘤]打的问号左卵巢囊肿盆腔积液宫颈多发纳氏囊肿", "query_type": "subjective"}
+{"query": "大腿上很多密密麻麻的东西.还有一块一块的斑似的.什么原因", "query_type": "subjective"}
+{"query": "Question: What is meant by the term 'passive movements'?\nOptions: (A) Movement with resistance, stretching at end of range.. (B) Movement without resistance, stretching at end of range.. (C) Movement with resistance, stopping at end of range.. (D) Movement without resistance, stopping at end of range..\n", "query_type": "objective"}
+{"query": "Question: Our genetic material is made up of:\nOptions: (A) deoxyribonucleic acid.. (B) ribonucleic acid.. (C) dinitronucleic acid.. (D) protein..\n", "query_type": "objective"}
+{"query": "最近一段时间发现泪腺不通，我想知道泪腺不通症状是什么？", "query_type": "subjective"}
+{"query": "拔牙后三天了，可还是很痛，问一下是不是干槽症，很担心。。。。。。。。。。。", "query_type": "subjective"}
+{"query": "问题：肝是生成尿素的唯一器官，是由于肝细胞含有____\n选项：(A) 谷氨酸脱氢酶。(B) 谷丙转氨酶。(C) 谷草转氨酶。(D) 精氨酸酶。\n", "query_type": "objective"}
+{"query": "你好，想要脚瘦点的话可以每天晚上用细盐加温水泡脚，泡完了在用细盐搓搓。", "query_type": "subjective"}
+{"query": "Question: Which of the following drugs may be used to enhance gastric motility?\nOptions: (A) Adrenaline.. (B) Ditropan.. (C) Erythromycin.. (D) Carbemazepine..\n", "query_type": "objective"}
+{"query": "手指锯断了,吃什么好得快,吃什么不好", "query_type": "subjective"}
+{"query": "服用黄酮体胶囊后立刻来月经了，是否立即停药想得到怎", "query_type": "subjective"}
+{"query": "我是一名职业女性，平时很喜欢打扮自己，夏天到了，有一个令我苦恼的问题一直困扰着我，就是我的脚后跟皮肤特别粗糙，穿凉鞋很难看，想问一下脚后跟皮肤粗糙怎么办？", "query_type": "subjective"}
+{"query": "主动脉夹层动脉瘤做完手术后，大概需要多长时间才能恢复？主动脉夹层动脉瘤做完手术后，大概需要多长时间才能恢复？", "query_type": "subjective"}
+{"query": "慢性髓细胞性白血病可不可以吃木瓜", "query_type": "subjective"}
+{"query": "问题：关于肿瘤的转移错误的是____\n选项：(A) 胃癌可转移至盆腔。(B) 乳癌可转移至锁骨上淋巴结。(C) 交界性肿瘤不出现转移。(D) 肝癌可出现脑转移。\n", "query_type": "objective"}
+{"query": "刚刚挖了耳朵后感觉耳朵听力下降了不怎么听得清楚耳朵没有出血也不痛", "query_type": "subjective"}
+{"query": "Question: The descending loop of Henle of the nephron of the kidney is permeable to which of the following substances?\nOptions: (A) Na+. (B) H2O. (C) K+. (D) Cl-.\n", "query_type": "objective"}
+{"query": "我早泻用什么泡酒好可以达到效果呢用海马可以吗早泄", "query_type": "subjective"}
+{"query": "Question: A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in infancy during a work-up for coarctation of the aorta. During today's visit, her mother reports that the girl has been talking about babies. You have been the patient's physician for the past 6 years and know she is prepubescent. It is most appropriate to counsel the patient that if she wishes to have a family she will need to do which of the following?\nOptions: (A) Adopt. (B) Have amniocentesis if she gets pregnant. (C) Have an operation. (D) Receive genetic counseling.\n", "query_type": "objective"}
+{"query": "超声描述:AO:13.4mm，LA:18.5mm，LV:DM:29mm，SM:16mm，PA:11mm，RA:17mm，RV:16mm，IVS:5.3mm，LVPW:5.2mm各房室大小正常，室间隔上部可见连续性中断，左", "query_type": "subjective"}
+{"query": "我前几天去医院做体检的时间检查出来睾丸有积液，我想问问这个病还能引发其他的哪些病啊？", "query_type": "subjective"}
+{"query": "问题：导致甲状腺肿大最常见的原因是____\n选项：(A) 垂体肿瘤。(B) 缺碘。(C) 自身免疫反应。(D) 先天性疾患。\n", "query_type": "objective"}
+{"query": "问题：可直接激活蛋白激酶C的是____\n选项：(A) cAMP。(B) cGMP。(C) $IP_3$。(D) DAG。\n", "query_type": "objective"}
+{"query": "最近一朋友感觉烟瘾上来了，老是抽好多的烟，一天两三包，现在是浑身难受，打喷嚏，咳嗽，嗓子难受，挂过吊瓶还是不好，我看那个支气管炎症和肺炎发病率很高肺炎和支气管肺炎区别是什么？", "query_type": "subjective"}
+{"query": "孩子七岁半了，女孩，前半年就发现孩子身体上总长一些小疙瘩，像小米粒一样，小疙瘩周围比较干燥，不疼也不痒，并且长的地方不固定，腿上，胳膊上，后背上都长过，是什么原因？通过饮食上能否有些改变？谢谢。", "query_type": "subjective"}
+{"query": "Question: A study is designed to evaluate the feasibility of acupuncture in children with chronic headaches. Sixty children with chronic headaches are recruited for the study. In addition to their usual therapy, all children are treated with acupuncture three times a week for 2 months. Which of the following best describes this study design?\nOptions: (A) Case-control. (B) Case series. (C) Crossover. (D) Cross-sectional.\n", "query_type": "objective"}
+{"query": "我结扎五年了，现在想解开可以吗", "query_type": "subjective"}
+{"query": "我11回被摩托车排汽筒烫伤，用美宝湿润烧伤膏会不会结痂", "query_type": "subjective"}
+{"query": "宝宝40天了白天什么都正常，晚上九点左右就开始哭闹，也吃完了也哭，睡着了五分钟就醒了，然后就哭，也不吃奶，即使吃完了奶也闹，就是最近几天的事。然后抱起来就会好一些，请问医生这是怎么回事啊？", "query_type": "subjective"}
+{"query": "问题：婴幼儿心理卫生最主要的任务是____\n选项：(A) 继胎教后立即开始生后相关训练。(B) 经常给孩子以爱抚。(C) 创造尽可能好的生活环境。(D) 抓住关键期，促进认知情感的健康发展。\n", "query_type": "objective"}
+{"query": "两侧输卵管完全堵塞，请问能够疏通吗？", "query_type": "subjective"}
+{"query": "空腹能否吃西洋参", "query_type": "subjective"}
+{"query": "患者男62岁，糖尿病高血压（透析患者），近期血糖血压不稳定，左边眼睛充血红痛和头痛。。去眼科治疗未见好转，CT检查未见异常，用了头孢类消炎药和消炎的眼药水。眼睛充血红痛和头痛怎么办？谢谢！", "query_type": "subjective"}
+{"query": "Question: Which hormone is primarily responsible for fluid regulation?\nOptions: (A) Antidiuretic hormone.. (B) Insulin.. (C) Adrenaline.. (D) Testosterone..\n", "query_type": "objective"}
+{"query": "做完手术后，有一个切口，缝的时候会痛吗？缝后会不会痛？最怕痛了", "query_type": "subjective"}
+{"query": "北京治疗老年痴呆的中医。北京治疗老年痴呆的中医", "query_type": "subjective"}
+{"query": "Question: During CPR, chest compressions should be delivered at a rate of:\nOptions: (A) 80/minute.. (B) as fast as possible.. (C) 100/minute.. (D) varies with each patient..\n", "query_type": "objective"}
+{"query": "孩子越来越大，牙齿长了一大半，跟大人一样吃饭，牙齿需要刷吗想得到的帮助：儿童需要刷牙", "query_type": "subjective"}
+{"query": "问题：急性粒细胞性白血病时，瘤细胞在骨膜下浸润，聚集成肿块，称为____\n选项：(A) 棕色瘤。(B) 黄色瘤。(C) 绿色瘤。(D) Wilms瘤。\n", "query_type": "objective"}
+{"query": "Question: A 50-year-old female presents to the office with the complaints of chronic achiness, stiffness, and fatigue. Physical examination reveals multiple bilateral tender points in the trapezius, gluteal, and suboccipital muscle groups. Radiograph findings and laboratory study results are normal. The most likely diagnosis is\nOptions: (A) ankylosing spondylitis. (B) fibromyalgia. (C) myofascial pain syndrome. (D) osteoarthritis.\n", "query_type": "objective"}
+{"query": "每次喝奶都呛奶，吐奶，也因此经常轻咳远不止，吐奶引起咳嗽如何处理？", "query_type": "subjective"}
+{"query": "四天前被猫抓出血了。如果它没发病。并且十日之后猫仍然好好的活着。那我就没被传染。它是个英国短毛猫。并且没有出过门。", "query_type": "subjective"}
+{"query": "20岁得多囊卵巢综合症怎么办。吃了一个月药给个建议，不知道怎么办。", "query_type": "subjective"}
+{"query": "大便排紫红色血是什么原因", "query_type": "subjective"}
+{"query": "Question: When preparing for the MCAT exam, a student begins studying electrochemical cells. He learns the basic information needed by actively relating it to previous information he has learned about redox reactions. He then builds from that knowledge to learn the advanced concepts needed. The student’s process is best characterized as:\nOptions: (A) Chunking. (B) A network model. (C) Maintenance rehearsal. (D) Elaborative rehearsal.\n", "query_type": "objective"}
+{"query": "今年7月份右边的眼睛得角膜炎了。去医院就诊后医生给我开了以下药品：可乐必妥左氧氟沙星、更昔洛韦滴眼液、更昔洛韦凝胶、夫西地酸、普拉洛芬滴眼液用了一个月之后没什么效果，眼睛还是每天都很红。去复诊的时候，医生还是开的那些要，并且加了一个硫酸阿托品。这个药倒是很管用，用了几次就不红了。用完之后感觉眼睛很好就没再去医院了，后来没一个星期又复发了。去医院之后医生又给我开了重组表皮生长因子衍生物滴眼液和重组牛碱性成纤维细胞生长因子眼用凝胶这两个加上前面的。用了一个月怎么眼睛还是每天很红，特别是早上起床的时候最红了。是", "query_type": "subjective"}
+{"query": "几个月前我有流鼻血的症状，医生说我有鼻甲肥大，但是很长一段时间没有在出现鼻血症状了以为好了，就没管它，这几天突然出现鼻子呼吸不顺，想问下鼻甲肥大长期不治会怎么样。鼻甲肥大应该怎样治疗？", "query_type": "subjective"}
+{"query": "问题：左心衰竭肺水肿____\n选项：(A) 粉红色浆液性泡沫样痰。(B) 铁锈色血痰。(C) 砖红色胶冻样粘痰。(D) 粉红色乳样痰。\n", "query_type": "objective"}
+{"query": "问题：转氨酶的辅酶____\n选项：(A) 生物素。(B) 叶酸。(C) 磷酸吡哆醛。(D) 硫胺素。\n", "query_type": "objective"}
+{"query": "问题：慢性胃溃疡最常见的并发症是____\n选项：(A) 幽门狭窄。(B) 穿孔。(C) 出血。(D) 癌变。\n", "query_type": "objective"}
+{"query": "Question: Walking down a street late at night, an adult male pedestrian notices a young female on the ground, not moving. The female is on the opposite side of the street. Crossing the street, the pedestrian notices that the young woman appears both much wealthier than he is and is of a different ethnicity. Seeing no one else present, the pedestrian renders aid. According to the bystander effect, which of the following would change how the pedestrian reacts?\nOptions: (A) The person requiring aid appearing to be of a lower socioeconomic class rather than a higher one. (B) The presence of another group of people one block up the street. (C) The person requiring aid appearing to be the same ethnicity rather than a different one. (D) The presence of one other person who is already approaching the girl.\n", "query_type": "objective"}
+{"query": "您好，我表哥今年27岁了，前天和网友发生了一夜情，也是年少不懂事吧，第二天感觉下体哪里痒，去医院检查说是感染尖锐湿疣，请问怎么治疗？请问尖锐湿疣如何治疗好", "query_type": "subjective"}
+{"query": "Question: A teacher sets up a reward system for her elementary school students. At the end of each day, she gives a sticker to each student who showed up on time that morning. At the end of each week, she gives a sticker to any student who got above a 90% on three quizzes in a row. After months of this regimen, she finds that performance on the quizzes has increased significantly but that tardiness has only decreased slightly. Which of the following best explains the teacher’s observation?\nOptions: (A) Variable ratio schedules create the strongest responses and behavior that is the least susceptible to extinction.. (B) The students had more intrinsic motivation to do well on quizzes than to show up on time.. (C) The students’ behavior change was stronger in response to a fixed-ratio schedule than it was to a continuous reinforcement schedule.. (D) The students’ behavior change was stronger in response to a fixed-ratio schedule than it was to a variable-interval schedule..\n", "query_type": "objective"}
+{"query": "我女儿今年11岁，睡觉后1-2小时老出汗，并且腋下有异味，请问为什么？", "query_type": "subjective"}
+{"query": "先天性白血病的就诊科室是什么？", "query_type": "subjective"}
+{"query": "Question: Which of the following is true of hepatomegaly?\nOptions: (A) Emphysema is a cause. (B) The liver enlarges downwards from the left hypochondrium. (C) The presence of jaundice, spider naevi and purpura suggest alcohol as a cause. (D) The liver is usually resonant to percussion.\n", "query_type": "objective"}
+{"query": "问题：食物中每克碳水化合物、脂肪和蛋白质可供给能量(kcal)分别为____\n选项：(A) 4，9，4。(B) 9，4，4。(C) 4，9，9。(D) 9，9，4。\n", "query_type": "objective"}
+{"query": "最近晚上很早就睡了但是感觉总是做梦！白天上班又总是打哈欠提不起精神！有点头痛眼睛发热集中不了精神", "query_type": "subjective"}
+{"query": "血清报告单总胆红素22、9，直接胆红素8,体检报告单。总胆红素22.9，直接胆红素8.4。肌酐31，其它正常值", "query_type": "subjective"}
+{"query": "问题：风湿性心脏瓣膜病最常受累的瓣膜是____\n选项：(A) 二尖瓣。(B) 三尖瓣。(C) 肺动脉瓣。(D) 主动脉瓣。\n", "query_type": "objective"}
+{"query": "问题：cGMP能激活____\n选项：(A) 磷脂酶C。(B) 蛋白激酶A。(C) 蛋白激酶G。(D) 酪氨酸蛋白激酶。\n", "query_type": "objective"}
+{"query": "继发性不孕症的检查", "query_type": "subjective"}
+{"query": "颈部经常受到震动会引发颈椎病吗?颈部经常受到震动会引发颈椎病吗?颈部经常受到震动会引发颈椎病吗?，颈部经常受到震动会引发颈椎病吗?", "query_type": "subjective"}
+{"query": "Question: Blood clots are responsible for repeatedly blocking a catheter. What should you do?\nOptions: (A) Call for help.. (B) Inform medical staff.. (C) Inform the patient.. (D) Remove the catheter and recatheterize..\n", "query_type": "objective"}
+{"query": "Question: Which of the following statements is false?\nOptions: (A) Phosphofructokinase is the rate limiting enzyme in glycolysis.. (B) Phosphorylase activity is higher in Type II fibres than in Type I fibres.. (C) Endurance training increases the amount of TCA cycle enzymes in muscle.. (D) Oxygen is consumed in the TCA cycle..\n", "query_type": "objective"}
+{"query": "问题：稀有核苷酸碱基主要见于____。\n选项：(A) DNA。(B) mRNA。(C) tRNA。(D) rRNA。\n", "query_type": "objective"}
+{"query": "急性UC的辅助治疗有些什么？", "query_type": "subjective"}
+{"query": "人流手术，15天后检查医生说是正常曾经治疗情况和效", "query_type": "subjective"}
+{"query": "问题：在酶的分离纯化中最理想的实验结果是____。\n选项：(A) 纯化倍数高，回收率高。(B) 蛋白回收率高。(C) 回收率小，但纯化倍数高。(D) 比活力最大。\n", "query_type": "objective"}
+{"query": "我是干性皮肤，为什么也长粉刺，而且一直都有，请问怎样才能没有？", "query_type": "subjective"}
+{"query": "血液和腹水都没有癌细胞能确诊是卵巢癌吗？血液和腹水都没有癌细胞能确诊是卵巢癌吗？现在饮中药和滴人造血蛋白。", "query_type": "subjective"}
+{"query": "输卵管两侧疼痛是什么原因你好，请问一下，为什么会发生输卵管两侧疼痛？患有这个病该怎么治疗呢？为什么会发生输卵管两侧疼痛？", "query_type": "subjective"}
+{"query": "问题：月经的特点，下列正确的是____\n选项：(A) 月经血易凝固，可有小血块。(B) 月经期可有下腹及腰骶部坠胀感。(C) 正常月经量为60-100m。(D) 月经周期一般为28-30天，提前或推后1周仍属正常范围。\n", "query_type": "objective"}
+{"query": "月经有两个多月没来，下面流像鼻涕样的透明液体是怎么回事", "query_type": "subjective"}
+{"query": "问题：下列哪项不是医疗机构应当在12小时内向当地卫生行政部门报告的重大医疗过失行为____\n选项：(A) 发生死亡的。(B) 有重度残疾的。(C) 有中度残疾的。(D) 同时二人人身损害后果的。\n", "query_type": "objective"}
+{"query": "20天时，胎儿曾几分钟动一次，一直动28个小时。现在7个月12天，又是这样，几分钟动一次，动了48个小时了,怎么办.好着急。不知别人有没有这种现象。", "query_type": "subjective"}
+{"query": "我家孩子马上四个月了，一直是混合喂养一天能喂奶粉三次可最近几天不吃奶瓶了，奶嘴一放到孩子嘴边就身体就打挺，用舌头往外吐脑袋往外拧还哭闹，给他吃母乳就都正常了可还吃不饱一直都想吃，这些天都是等孩子睡着了在慢慢地把奶嘴放到嘴里左右晃悠着勉强才吃几口，这样喂一次奶粉得一个多小时，有时睡得太香了一口都不吃怎么弄都不醒，愁死了", "query_type": "subjective"}
+{"query": "激光去雀斑价格？我脸上的雀斑不是很严重，想问下激光治疗大概多.", "query_type": "subjective"}
+{"query": "医生，你好！我想问一下如果宝宝吃多了冷的东西，过了半小时在吃热的东西，半夜身上发热怎么办？", "query_type": "subjective"}
+{"query": "什么钙片补钙好", "query_type": "subjective"}
+{"query": "近期开会发言时紧张到声音发抖，出汗，特别丢人。以前没这么严重，有办法治疗吗？", "query_type": "subjective"}
+{"query": "我老公今年35岁，今天他单位体检，才知道自己有高血压，但是平时一点症状都没有。血压高没什么症状应该吃药吗？", "query_type": "subjective"}
+{"query": "问题：男性，65岁。昏迷10小时。血气分析：$pH$ 7．26，$PaCO_2$82mmHg，$PaO_2$ 45mmHg。下列哪项处理不适宜____\n选项：(A) 机械通气。(B) 呼吸兴奋剂。(C) 支持疗法。(D) 高浓度给氧。\n", "query_type": "objective"}
+{"query": "我昨晚吃鸭掌，骨头卡在喉咙里，怎么办啊，今天还是很难受:", "query_type": "subjective"}
+{"query": "患者女，42岁，此前身体状况良好，此次病情:1嗓子哑了老长时间了2早上起来嗓子干还有痰。3嗓子不痛。", "query_type": "subjective"}
+{"query": "Question: A 72-year-old man comes to the physician because of a 7-month history of leg weakness and dry eyes and mouth. He also has had a 10.4-kg (23-lb) weight loss over the past 4 months despite no change in appetite. He has smoked one and a half packs of cigarettes daily for 50 years. He drinks 4 oz of alcohol daily. He has peptic ulcer disease and emphysema. Medications include cimetidine, theophylline, and low-dose prednisone. Examination shows mild ptosis. He has a barrelshaped chest. Breath sounds are distant. There is moderate weakness of proximal muscles of the lower extremities. Reflexes are absent. He has difficulty rising from a chair. Sensory examination shows no abnormalities. An x-ray shows a hyperinflated chest and a 3 x 4-cm mass in the right hilum. His neurologic findings are most likely due to a lesion involving which of the following?\nOptions: (A) Muscle membrane. (B) Parasympathetic nervous system. (C) Peripheral nerve. (D) Presynaptic neuromuscular junction.\n", "query_type": "objective"}
+{"query": "我昨天去公园跑了步，由于长期不锻炼，导致运动一下腿就特别的疼，今天就感觉我的左腿小腿疼，都不太敢走路了，所以想问一下左腿小腿疼怎么缓解才好呢？", "query_type": "subjective"}
+{"query": "你好，我心口窝胀。后背着几天也胀，是咋了", "query_type": "subjective"}
+{"query": "我和同学去洗澡，发现我的阴囊长的和他们的不太一样，有点肿大，但是又不痛，他们说我这是疝气。所以想要咨询一下跟这方面相关的一些专业人员，了解一下疝气可以现在做微创吗？", "query_type": "subjective"}
+{"query": "到预产期了，孩子也不往下走，胎心监护都正常，可一点临产的反应都没有怎么办，好着急，谢谢", "query_type": "subjective"}
+{"query": "Question: A 15-year-old male presents to the office with the complaint of painless swelling in the left testicle that has varied in size over the past several months. There is no history of trauma. The lesion transilluminates well, and no inguinal nodes are palpable. Findings from a testicular scan are normal. The most appropriate management includes\nOptions: (A) injection with a sclerosing agent. (B) needle aspiration. (C) needle biopsy. (D) surgical repair.\n", "query_type": "objective"}
+{"query": "这个夏天出汗最多，很容易出汗，特别是一出汗汗水多，额头、鼻子边缘脸部嘴巴边缘", "query_type": "subjective"}
+{"query": "从我患癫痫之后就开始磨牙是什么原因", "query_type": "subjective"}
+{"query": "患者年龄:13患者性别:男从11岁开始250度，不想戴眼镜，请问可以恢复吗", "query_type": "subjective"}
+{"query": "半夜口渴尿频有时还盗汗，冬天怕冷手心出汗，晚上经常口渴尿频盗汗怎么办？", "query_type": "subjective"}
+{"query": "Question: Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membrane and ending with the outermost membrane?\nOptions: (A) Thylakoid membrane, inner membrane, outer membrane. (B) Inner membrane, outer membrane, thylakoid membrane. (C) Outer membrane, inner membrane, thylakoid membrane. (D) Strama, outer membrane, inner membrane.\n", "query_type": "objective"}
+{"query": "问题：早期出现肺门及纵膈多发淋巴结转移的肺癌类型是____\n选项：(A) 鳞癌。(B) 大细胞肺癌。(C) 小细胞肺癌。(D) 腺癌。\n", "query_type": "objective"}
+{"query": "问题：转录是指____\n选项：(A) DNA的自我复制过程。(B) RNA的自我复制过程。(C) 以DNA为模板合成RNA的过程。(D) 以RNA为模板合成DNA的过程。\n", "query_type": "objective"}
+{"query": "Question: If the foot is abducted, it is moved in which direction?\nOptions: (A) Inward. (B) Outward. (C) Upward. (D) Downward.\n", "query_type": "objective"}
+{"query": "腿部静脉血管爆裂是怎么回事，那里可以治疗，腿部静脉血管爆裂是怎么回事，那里可以治疗那里可以得到较好的治疗", "query_type": "subjective"}
+{"query": "问题：抢救急性一氧化碳中毒，尽快纠正组织缺氧效果最佳的是哪项____\n选项：(A) 迅速离开现场。(B) 吸氧。(C) 输血。(D) 高压氧舱治疗。\n", "query_type": "objective"}
+{"query": "血糖降不下来怎么办？,血糖高，吃了格列美脲、拜糖平，在吃无效果的情况下，又增加了二甲双胍、消渴丸，到目前仍无效果", "query_type": "subjective"}
+{"query": "指甲变黄，尿液一直是黄色干了几天话活，然后指甲变黄的，最近尿液一直是黄色，以前不是这样的？不会是肝病吧。。。", "query_type": "subjective"}
+{"query": "最近我老是感觉到身体很疲惫，妈妈让我吃灵芝能提高人体的免疫力。请问灵芝还有什么好处呢？", "query_type": "subjective"}
+{"query": "Question: Under what circumstances would you use antibiotics prior to catheterization?\nOptions: (A) If the patient has had a catheter in situ for a week.. (B) If the patient does not have urinary tract infection.. (C) If patient has an artificial heart valve.. (D) If the patient requests them..\n", "query_type": "objective"}
+{"query": "问题：具5 \" -CpGpGpTpAp-3 \" 顺序的单链DNA能与下列____RNA杂交\n选项：(A) 5 \" -GpCpCpApTp3 \"。(B) 5 \" -GpCpCpUp-3 \"。(C) 5 \" -UpApCpCpGp-3 \"。(D) 5 \" -TpApCpGp-3 \"。\n", "query_type": "objective"}
+{"query": "问题：诊断前置胎盘最可靠而安全的方法是____\n选项：(A) X线腹部平片。(B) B超检查。(C) 阴道双合诊。(D) 肛查。\n", "query_type": "objective"}
+{"query": "男，31岁。五天了，肛门痛，用手可以摸到，在尾骨下面肛门内边一点有一硬块，一碰就痛，弯腰也痛，咳嗽也痛，咨询一下可能是什么病症？", "query_type": "subjective"}
+{"query": "气管软骨环破坏的辅助治疗有些什么？", "query_type": "subjective"}
+{"query": "胃溃疡最佳治疗方法。确诊胃溃疡怎样治疗胃溃疡吃啥药", "query_type": "subjective"}
+{"query": "问题：骨骼肌中Ca离子的结合位点是____\n选项：(A) 肌纤蛋白。(B) 原肌凝蛋白。(C) 肌钙蛋白亚单位I。(D) 肌钙蛋白亚单位C。\n", "query_type": "objective"}
+{"query": "问题：蛋白质生物合成中多肽的氨基酸排列顺序取决于____。\n选项：(A) 相应tRNA的专一性。(B) 相应氨酰tR-NA合成酶的专一性。(C) 相应mRNA中核苷酸排列顺序。(D) 相应tRNA上的反密码子。\n", "query_type": "objective"}
+{"query": "脸上有螨虫用硫磺皂一星期用几次？？？？？？？？？？？？？？？？？？？", "query_type": "subjective"}
+{"query": "一岁多的孩子上火舌苔熬梨加冰糖水管用吗", "query_type": "subjective"}
+{"query": "生完宝宝后白带增多，绿色糊状，瘙痒，没有味道。该怎么治疗？", "query_type": "subjective"}
+{"query": "静脉炎疾病不知道怎么就形成了，发现下肢问题医院检查后才知道，而且导致我有时候会出现间歇性跛行的症状，真心感觉难受。该怎么办", "query_type": "subjective"}
+{"query": "引产是不是一定要清宫。清宫是不是很疼。怎样才能不用清宫。引产", "query_type": "subjective"}
+{"query": "岁病史:2010年8月刚开始右髋关节疼痛，拍片子骨头尚好，认为是滑膜炎，做消炎制动处理，10月疼痛伴有39度高烧，住院也是消炎与制动，打青霉素与喜炎平，一周后缓解出院。2011年2月双髋关节都疼痛，有时胳膊前臂伴有疼痛，", "query_type": "subjective"}
+{"query": "问题：Ⅱ型呼吸衰竭不能给予高浓度吸氧的原因主要是____\n选项：(A) 伴$CO_2$潴留。(B) 诱发呼吸性碱中毒。(C) 降低了颈动脉体、主动脉体的兴奋性。(D) 可引起氧中毒。\n", "query_type": "objective"}
+{"query": "问题：关于湿性坏疽的描述，不正确的是____\n选项：(A) 合并腐败菌感染。(B) 具有恶臭味。(C) 常有全身中毒症状。(D) 坏死组织与健康组织之间界限清楚。\n", "query_type": "objective"}
+{"query": "问题：下述有关痛风病的非药物治疗中，不正确的是____\n选项：(A) 禁酒。(B) 控制饮水。(C) 保持理想体重。(D) 限制高嘌呤食物摄入。\n", "query_type": "objective"}
+{"query": "头发变少掉发严重一年四季夏季比较严重", "query_type": "subjective"}
+{"query": "宝宝脸上，大腿上，手臂上长了几颗红点，就像让蚊子咬了，没长包的那种红点，好像不痒，红点平平的，没有凸起来，宝宝没有不舒服，是什么？湿疹吗？", "query_type": "subjective"}
+{"query": "大腿内侧湿疹是什么因素引起的呢，大腿内侧湿疹是什么因素引起的呢", "query_type": "subjective"}
+{"query": "Question: A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stiffness in her hands, wrists, and knees during the past several months. She also has had increasing fatigue for the past month, along with a weight loss of 1.8 to 2.2 kg (4 to 5 lb). She has seen numerous physicians for her arthritis in the past and has tried various medications and devices, including copper bracelets from Mexico given to her by friends. Review of her medical records confirms that the initial diagnosis of rheumatoid arthritis is correct. She says, \"I had several drop attacks during the past 3 months.\" She characterizes these attacks as episodes of weakness and loss of feeling in her legs for several minutes. During one of these episodes, she became incontinent. She currently takes aspirin approximately four times daily and ibuprofen occasionally. Physical examination shows facial plethora and swollen and painful metacarpophalangeal and knee joints, bilaterally. There is moderate ulnar deviation of the fingers. The remainder of the examination discloses no abnormalities. Which of the following is the most likely cause of her \"drop attacks?\"\nOptions: (A) Adrenal insufficiency. (B) Anxiety. (C) Atlanto-axial instability. (D) Cardiac arrhythmia.\n", "query_type": "objective"}
+{"query": "脸上干燥起皮，痒，干燥起皮的地方稍微有点红肿，这种情况是过敏还是因为用护肤品的新陈代谢？现在的护肤品现在用了一年多，没有出现过这样的情况。脸上以前起过湿疹。昨天之前脸上稍微有点起皮，用了下不是常用的化妆品，卸妆后就变成这样了。现在在红肿干燥起皮的地方擦了丁酸氢化可的松乳膏。", "query_type": "subjective"}
+{"query": "拔完智齿后能喝牛奶吗", "query_type": "subjective"}
+{"query": "无热惊厥一次，以前从未发生过脑电图显示不正常", "query_type": "subjective"}
