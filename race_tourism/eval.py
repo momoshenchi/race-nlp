@@ -10,11 +10,16 @@ tokenizer = AutoTokenizer.from_pretrained(model_name,padding_side="left")
 model = AutoModelForCausalLM.from_pretrained(model_name, device_map=device, torch_dtype="auto")
 
 def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
-
-    # 与训练使用的template保持一致
     try:
-        prompts = [f"User: {inp}\nAssistant: " for inp in inp_list]
-        inputs = tokenizer(prompts, return_tensors="pt", padding=True).to(model.device)
+        input_ids = []
+        for inp in inp_list:
+            messages = [
+            {"role": "system", "content": "你是一位专业且有帮助的AI助手，专门回答与旅游相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应基于最新、最准确的旅游信息，确保内容严谨、准确。回答时，语言应与问题的主要语言保持一致。"},
+            {"role": "user", "content": inp}
+                ]
+            input_id = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+            input_ids.append(input_id)
+        inputs = tokenizer(input_ids, return_tensors="pt", padding=True).to(model.device)
         params = {
             "max_new_tokens": max_new_tokens,
             "top_p": 0.95,

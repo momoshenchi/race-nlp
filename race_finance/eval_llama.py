@@ -4,15 +4,17 @@ import traceback
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-model_name = "Qwen/Qwen2-7B-Instruct"
-device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
+model_name = "/home/guangyou/.cache/huggingface/hub/meta-llama/Llama-3.1-8B-Instruct"
+device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
 tokenizer = AutoTokenizer.from_pretrained(model_name,padding_side="left")
 model = AutoModelForCausalLM.from_pretrained(model_name, device_map=device, torch_dtype="auto")
-
+log_file = "run_log_llama.jsonl"  # 日志
+ans_file = "model_logits_llama.jsonl"  # 推理结果
 def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
+
     try:
-        # prompts = [f"User: {inp}\nAssistant: " for inp in inp_list]
         input_ids = []
+        # prompts = [f"User: {inp}\nAssistant: " for inp in inp_list]
         for inp in inp_list:
             messages = [
             {"role": "system", "content": "你是一位专业且有帮助的AI助手，专门回答与金融、经济相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应基于最新、最准确的金融、经济信息，确保内容严谨、准确。回答时，语言应与问题的主要语言保持一致。"},
@@ -20,7 +22,7 @@ def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
                 ]
             input_id = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
             input_ids.append(input_id)
-        inputs = tokenizer(input_ids, return_tensors="pt", padding=True).to(model.device)
+        inputs = tokenizer(input_ids, return_tensors="pt",padding=True).to(model.device)
         params = {
             "max_new_tokens": max_new_tokens,
             "top_p": 0.95,
@@ -60,14 +62,12 @@ def load_test_data(test_file):
             test_data.append(json.loads(line.strip()))
     return test_data
 
-log_file = "run_log.jsonl"  # 日志
-ans_file = "model_logits.jsonl"  # 推理结果
 
 # 加载测试数据
 test_data = load_test_data('eval_only_query.jsonl')
 print("test")
 
-batch_size = 16
+batch_size = 8
 for i in range(0, len(test_data), batch_size):
     batch_items = test_data[i:i+batch_size]
     prompts = [item['query'] for item in batch_items]
