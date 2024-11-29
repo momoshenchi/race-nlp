@@ -9,39 +9,74 @@ from langchain_huggingface import ChatHuggingFace
 from langchain_huggingface import HuggingFacePipeline
 langchain.debug = True
 from huggingface_hub import login
+from langchain_experimental.tot.base import ToTChain   
+from langchain_experimental.tot.checker import ToTChecker
+from langchain_experimental.tot.thought import ThoughtValidity
+from typing import Tuple
+from langchain_core.output_parsers.string import StrOutputParser
+
 login() # You will be prompted for your HF key, which will then be saved locally
 model_name = "Qwen/Qwen2.5-3B"
-log_file = "run_log_qwen25.jsonl"  # 日志
-ans_file = "model_logits_qwen25.jsonl"  # 推理结果
-device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
+log_file = "run_log_qwen_tot.jsonl"  # 日志
+ans_file = "model_logits_qwen_tot.jsonl"  # 推理结果
+device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
 
 # llm = HuggingFaceHub(repo_id=model_name, device=device)
 llm = HuggingFacePipeline.from_model_id(
     model_id=model_name,
     task="text-generation",
     pipeline_kwargs={"max_new_tokens": 100},
-    device=3,
+    device=1,
     )
+from langchain.chains import SequentialChain
 os.environ["http_proxy"] = "http://127.0.0.1:7890"
 os.environ["https_proxy"] = "http://127.0.0.1:7890"
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
-# llm = HuggingFaceEndpoint(
-#     repo_id=model_name,
-#     task="text-generation",
-#     max_new_tokens=2048,
-#     do_sample=True,
-#     huggingfacehub_api_token="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"
-# )
-from langchain.schema import SystemMessage, HumanMessage
+
+
+class MyChecker(ToTChecker):     
+    def evaluate(self, problem_description: str, thoughts: Tuple[str, ...] = ()) -> ThoughtValidity:
+        return ThoughtValidity.VALID_FINAL
+       
+        
 llm = ChatHuggingFace(llm=llm, verbose=True)
 def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
     try:
         input_prompts = []
         for inp in inp_list:
-            messages = [
-            ("system", "你是一位专业且有帮助的AI助手，专门回答与金融、经济相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应确保内容严谨、准确，语言应与问题中的主要语言保持一致。"),
-            ("user", inp)
-            ]
+            messages = f"你的任务是回答与金融、经济相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应确保内容严谨、准确。\n问题如下: {inp}",
+            template ="""
+                Step 2:
+
+                For each of the three proposed solutions, evaluate their potential. Consider their pros and cons, initial effort needed, implementation difficulty, potential challenges, and the expected outcomes. Assign a probability of success and a confidence level to each option based on these factors
+
+                {solutions}"""
+            template2 ="""
+                Step 3:
+
+                For each solution, deepen the thought process. Generate potential scenarios, strategies for implementation, any necessary partnerships or resources, and how potential obstacles might be overcome. Also, consider any potential unexpected outcomes and how they might be handled.
+
+                {review}
+
+                A:"""
+
+            template3 ="""
+            Step 4:
+
+            Based on the evaluations and scenarios, rank the solutions in order of promise. Provide a justification for each ranking and offer any final thoughts or considerations for each solution
+            {deepen_thought_process}
+
+            A:  """
+            
+            
+
+            overall_chain = SequentialChain(
+                chains=[chain1, chain2, chain3, chain4],
+                input_variables=["input", "perfect_factors"],
+                output_variables=["ranked_solutions"],
+                verbose=True
+            )
+
             # messages = [msg_type(content=content) for msg_type, content in messages]
             # template = ChatPromptTemplate.from_messages(messages)
             # prompt0 = template.format()
@@ -54,8 +89,12 @@ def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
             responses = []
             run_infos = []
             for i, prompt in enumerate(input_prompts):
-                response = llm.invoke(prompt)
-                responses.append(response)
+                tot_chain = ToTChain(llm=llm, checker=MyChecker(), k=5, c=2, verbose=True, verbose_llm=False) 
+                response =tot_chain.invoke(prompt)
+                # response = llm.invoke(prompt)
+                print(response)
+                # if type(response) == str:
+                responses.append(response['response'])
                 run_info = {
                     "unique_id": unique_id_list[i],
                     "model_inp": prompt,
