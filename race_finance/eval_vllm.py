@@ -1,46 +1,48 @@
+from vllm import LLM, SamplingParams
 import json
 import hashlib
 import traceback
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from tqdm import tqdm
 
 model_name = "Qwen/Qwen2.5-7B-Instruct"
-log_file = "run_log_qwen25.jsonl"  # 日志
-ans_file = "model_logits_qwen25.jsonl"  # 推理结果
+log_file = "run_log_qwen25_test.jsonl"  # 日志
+ans_file = "model_logits_qwen25_test.jsonl"  # 推理结果
 device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
 tokenizer = AutoTokenizer.from_pretrained(model_name,padding_side="left")
-model = AutoModelForCausalLM.from_pretrained(model_name, device_map=device, torch_dtype="auto")
-
-def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
+# 初始化LLM引擎
+engine = LLM(model=model_name)
+params = {
+            "max_new_tokens": 2048,
+            "top_p": 0.95,
+            "temperature": 0.8,
+            "do_sample": True,
+            "use_cache": True,         # 启用KV缓存
+        }
+def generate_response(inp_list, unique_id_list):
     try:
-        # prompts = [f"User: {inp}\nAssistant: " for inp in inp_list]
         input_ids = []
         for inp in inp_list:
             messages = [
-            {"role": "system", "content": "你是一位专业且有帮助的AI助手，专门回答与医学、健康相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应确保内容严谨、准确，语言应与问题中的主要语言保持一致。"},
+            {"role": "system", "content": "你是一位专业且有帮助的AI助手，专门回答与金融、经济相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应确保内容严谨、准确，语言应与问题中的主要语言保持一致。"},
             {"role": "user", "content": inp}
                 ]
             input_id = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
             input_ids.append(input_id)
-        inputs = tokenizer(input_ids, return_tensors="pt", padding=True).to(model.device)
-        params = {
-            "max_new_tokens": max_new_tokens,
-            "top_p": 0.95,
-            "temperature": 0.8,
-            "do_sample": True
-        }
-        with torch.no_grad():
-            outputs = model.generate(**inputs, **params)
+        # 设置采样参数
+        sampling_params = SamplingParams(**params)
+        # 生成输出
+        outputs = engine.generate(input_ids, sampling_params)
         responses = []
         run_infos = []
-        for i in range(len(inp_list)):
-            prompt_len = len(inputs['input_ids'][i])
-            output_ids = outputs[i][prompt_len:]
-            response = tokenizer.decode(output_ids, skip_special_tokens=True)
+
+        for i in tqdm(range(len(inp_list)), desc="Generating responses"):
+            response = outputs[i].outputs[0].text
             responses.append(response)
             run_info = {
                 "unique_id": unique_id_list[i],
-                "model_inp": input_ids[i],
+                "model_inp": outputs[i].prompt,
                 "gen_params": params
             }
             run_infos.append(run_info)
@@ -48,7 +50,6 @@ def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
     except Exception as e:
         traceback.print_exc()
         return None, ()
-
 def generate_unique_code(input_string):
     sha256_hash = hashlib.sha256()
     sha256_hash.update(input_string.encode('utf-8'))
@@ -62,14 +63,12 @@ def load_test_data(test_file):
             test_data.append(json.loads(line.strip()))
     return test_data
 
-
-
 # 加载测试数据
 test_data = load_test_data('eval_only_query.jsonl')
 print("test")
 
 batch_size = 16
-for i in range(0, len(test_data), batch_size):
+for i in tqdm(range(0, len(test_data), batch_size), desc="Processing batches"):
     batch_items = test_data[i:i+batch_size]
     prompts = [item['query'] for item in batch_items]
     query_types = [item['query_type'] for item in batch_items]
@@ -97,4 +96,4 @@ for i in range(0, len(test_data), batch_size):
 
         with open(ans_file, "a") as fw:
             fw.write(json.dumps(answer_info, ensure_ascii=False) + "\n")
-        print(f"answer_info: {answer_info}")
+        # print(f"answer_info: {answer_info}")

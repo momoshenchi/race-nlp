@@ -39,7 +39,7 @@ def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
             responses.append(response)
             run_info = {
                 "unique_id": unique_id_list[i],
-                "model_inp": prompts[i],
+                "model_inp": input_ids[i],
                 "gen_params": params
             }
             run_infos.append(run_info)

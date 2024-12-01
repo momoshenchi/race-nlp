@@ -3,14 +3,16 @@ import hashlib
 import traceback
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from tqdm import tqdm
 
 model_name = "Qwen/Qwen2.5-7B-Instruct"
-log_file = "run_log_qwen25.jsonl"  # 日志
-ans_file = "model_logits_qwen25.jsonl"  # 推理结果
+log_file = "run_log_qwen25_test.jsonl"  # 日志
+ans_file = "model_logits_qwen25_test.jsonl"  # 推理结果
 device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
 tokenizer = AutoTokenizer.from_pretrained(model_name,padding_side="left")
 model = AutoModelForCausalLM.from_pretrained(model_name, device_map=device, torch_dtype="auto")
-
+# 使用 Flash Attention
+model.config.use_flash_attention = True
 def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
     try:
         # prompts = [f"User: {inp}\nAssistant: " for inp in inp_list]
@@ -27,20 +29,21 @@ def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
             "max_new_tokens": max_new_tokens,
             "top_p": 0.95,
             "temperature": 0.8,
-            "do_sample": True
+            "do_sample": True,
+            "use_cache": True,         # 启用KV缓存
         }
         with torch.no_grad():
             outputs = model.generate(**inputs, **params)
         responses = []
         run_infos = []
-        for i in range(len(inp_list)):
+        for i in tqdm(range(len(inp_list)), desc="Generating responses"):
             prompt_len = len(inputs['input_ids'][i])
             output_ids = outputs[i][prompt_len:]
             response = tokenizer.decode(output_ids, skip_special_tokens=True)
             responses.append(response)
             run_info = {
                 "unique_id": unique_id_list[i],
-                "model_inp": prompts[i],
+                "model_inp": input_ids[i],
                 "gen_params": params
             }
             run_infos.append(run_info)
@@ -62,14 +65,12 @@ def load_test_data(test_file):
             test_data.append(json.loads(line.strip()))
     return test_data
 
-
-
 # 加载测试数据
 test_data = load_test_data('eval_only_query.jsonl')
 print("test")
 
 batch_size = 16
-for i in range(0, len(test_data), batch_size):
+for i in tqdm(range(0, len(test_data), batch_size), desc="Processing batches"):
     batch_items = test_data[i:i+batch_size]
     prompts = [item['query'] for item in batch_items]
     query_types = [item['query_type'] for item in batch_items]
@@ -97,4 +98,4 @@ for i in range(0, len(test_data), batch_size):
 
         with open(ans_file, "a") as fw:
             fw.write(json.dumps(answer_info, ensure_ascii=False) + "\n")
-        print(f"answer_info: {answer_info}")
+        # print(f"answer_info: {answer_info}")
