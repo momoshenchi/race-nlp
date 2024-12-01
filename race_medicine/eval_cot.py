@@ -7,7 +7,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 model_name = "Qwen/Qwen2.5-7B-Instruct"
 log_file = "run_log_qwen25_tot.jsonl"  # 日志
 ans_file = "model_logits_qwen25_tot.jsonl"  # 推理结果
-device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda:3" if torch.cuda.is_available() else "cpu")
 tokenizer = AutoTokenizer.from_pretrained(model_name,padding_side="left")
 model = AutoModelForCausalLM.from_pretrained(model_name, device_map=device, torch_dtype="auto")
 params = {
@@ -28,7 +28,7 @@ def llm(messages):
     return input_id,response
 def get_best_answer(inp):
     messages = [
-                {"role": "system", "content":  "你是一位专业且有帮助的AI助手，专门回答与金融、经济相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应确保内容严谨、准确，语言应与问题中的主要语言保持一致。"},
+            {"role": "system", "content": "你是一位专业且有帮助的AI助手，专门回答与医学、健康相关的各种问题，包括选择题和开放式问题。对于选择题，请先直接给出正确答案，然后详细说明理由，并逐一分析其他选项的优缺点。你的回答应确保内容严谨、准确，语言应与问题中的主要语言保持一致。"},
                 {"role": "user", "content": inp}
             ]
             # 获取5次回答
@@ -61,8 +61,8 @@ def get_best_answer(inp):
         json_content = re.search(r'```json\n(.*?)\n```', ranking_result, re.DOTALL)
         if not json_content:
             ranking_result2 = json.loads(ranking_result)
-        else:
-            ranking_result2 = json.loads(json_content.group(1))
+    
+        ranking_result2 = json.loads(json_content.group(1))
         print("json",ranking_result2)
         rankings = [x - 1 for x in ranking_result2["rankings"]]  # 转换为0-based索引
         

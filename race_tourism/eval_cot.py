@@ -3,7 +3,6 @@ import hashlib
 import re
 import traceback
 import torch
-
 from transformers import AutoTokenizer, AutoModelForCausalLM
 model_name = "Qwen/Qwen2.5-7B-Instruct"
 log_file = "run_log_qwen25_tot.jsonl"  # 日志
@@ -73,10 +72,21 @@ def get_best_answer(inp):
            
     except json.JSONDecodeError:
         traceback.print_exc()
+        inp_next,ranking_result = llm(rank_messages)
+        json_content = re.search(r'```json\n(.*?)\n```', ranking_result, re.DOTALL)
+        if not json_content:
+            ranking_result2 = json.loads(ranking_result)
+        else:
+            ranking_result2 = json.loads(json_content.group(1))
+        print("json",ranking_result2)
+        rankings = [x - 1 for x in ranking_result2["rankings"]]  # 转换为0-based索引
+        
+        # 按排名顺序重排responses
+        ranked_responses = [responses[i] for i in rankings]
         # 如果JSON解析失败,返回默认结果
-        return None,None
+        return inp_final,ranked_responses[0]
 
-def generate_response(inp_list, unique_id_list, max_new_tokens=2048):
+def generate_response(inp_list, unique_id_list):
     try:
         responses = []
         run_infos = []
