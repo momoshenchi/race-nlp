@@ -9,10 +9,11 @@ from tqdm import tqdm
 model_name = "Qwen/Qwen2.5-7B-Instruct"
 log_file = "run_log_qwen25_test.jsonl"  # 日志
 ans_file = "model_logits_qwen25_test.jsonl"  # 推理结果
-device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
+# device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
 tokenizer = AutoTokenizer.from_pretrained(model_name,padding_side="left")
 # 初始化LLM引擎
-engine = LLM(model=model_name)
+#张量并行,GPU数量为2,一张显卡无法运行
+engine = LLM(model=model_name, tensor_parallel_size=2)
 params = {
             "max_new_tokens": 2048,
             "top_p": 0.95,
