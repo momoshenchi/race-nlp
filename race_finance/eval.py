@@ -5,7 +5,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from tqdm import tqdm
 
-model_name = "Qwen/Qwen2.5-7B-Instruct"
+model_name = "/home/guangyou/momo/LLaMA-Factory/models/Qwen2.5-finance-7B-Instruct"
 log_file = "run_log_qwen25_test.jsonl"  # 日志
 ans_file = "model_logits_qwen25_test.jsonl"  # 推理结果
 device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")

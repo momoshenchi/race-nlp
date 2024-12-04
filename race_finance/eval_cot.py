@@ -42,7 +42,7 @@ def self_verification(response, inp):
     原始回答：
     {response}
     
-    请对该回答进行自我修正，确保其满足上述标准，并返回修正后的版本。
+    请对该回答进行自我修正，确保其满足上述标准，并返回修正后的版本。直接返回修改后的答案，不要使用"修改后的答案"，"修正后的答案"等词语开头。
     """
     verification_prompt=[{"role": "system", "content": verification_prompt},
                          {"role": "user", "content":"问题:\n"+inp+"\n\n"+user_prompt}]
@@ -88,7 +88,7 @@ def get_best_answer(inp):
             ranking_result2 = json.loads(ranking_result)
         else:
             ranking_result2 = json.loads(json_content.group(1))
-        print("json",ranking_result2)
+        # print("json",ranking_result2)
         rankings = [x - 1 for x in ranking_result2["rankings"]]  # 转换为0-based索引
         
         # 按排名顺序重排responses
