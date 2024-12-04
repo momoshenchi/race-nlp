@@ -5,21 +5,22 @@ import traceback
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from tqdm import tqdm
-
+#Memory profiling results: total_gpu_memory=23.64GiB 
+# initial_memory_usage=7.80GiB peak_torch_memory=9.74GiB 
+# memory_usage_post_profile=7.87GiB non_torch_memory=0.74GiB 
+# kv_cache_size=10.80GiB gpu_memory_utilization=0.90
 model_name = "Qwen/Qwen2.5-7B-Instruct"
-log_file = "run_log_qwen25_test.jsonl"  # 日志
-ans_file = "model_logits_qwen25_test.jsonl"  # 推理结果
+log_file = "run_log_qwen25_vllm_test.jsonl"  # 日志
+ans_file = "model_logits_qwen25_vllm_test.jsonl"  # 推理结果
 # device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
 tokenizer = AutoTokenizer.from_pretrained(model_name,padding_side="left")
 # 初始化LLM引擎
 #张量并行,GPU数量为2,一张显卡无法运行
 engine = LLM(model=model_name, tensor_parallel_size=2)
 params = {
-            "max_new_tokens": 2048,
+            "max_tokens": 4096,
             "top_p": 0.95,
             "temperature": 0.8,
-            "do_sample": True,
-            "use_cache": True,         # 启用KV缓存
         }
 def generate_response(inp_list, unique_id_list):
     try:
@@ -85,7 +86,7 @@ for i in tqdm(range(0, len(test_data), batch_size), desc="Processing batches"):
         run_info = run_infos[j]
         run_info["answer"] = response
         # 保存运行日志
-        with open(log_file, "a") as fw:
+        with open(log_file, "a",encoding='utf-8') as fw:
             fw.write(json.dumps(run_info, ensure_ascii=False) + "\n")
 
         # 保存输出结果
@@ -95,6 +96,6 @@ for i in tqdm(range(0, len(test_data), batch_size), desc="Processing batches"):
             "answer": response
         }
 
-        with open(ans_file, "a") as fw:
+        with open(ans_file, "a",encoding='utf-8') as fw:
             fw.write(json.dumps(answer_info, ensure_ascii=False) + "\n")
         # print(f"answer_info: {answer_info}")
